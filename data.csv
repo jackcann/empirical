@@ -1,0 +1,1467 @@
+League,Season,Position,Team,Points,Matches Played,Points per Match,Wins,Draws,Losses
+Premier League,2025,1,Liverpool,79,33,2.39,24,7,2
+Premier League,2025,2,Arsenal,67,34,1.97,18,13,3
+Premier League,2025,3,Newcastle Utd,62,34,1.82,19,5,10
+Premier League,2025,4,Manchester City,61,34,1.79,18,7,9
+Premier League,2025,5,Chelsea,60,34,1.76,17,9,8
+Premier League,2025,6,Nott'ham Forest,60,33,1.82,18,6,9
+Premier League,2025,7,Aston Villa,57,34,1.68,16,9,9
+Premier League,2025,8,Fulham,51,34,1.5,14,9,11
+Premier League,2025,9,Brighton,51,34,1.5,13,12,9
+Premier League,2025,10,Bournemouth,49,33,1.48,13,10,10
+Premier League,2025,11,Brentford,46,33,1.39,13,7,13
+Premier League,2025,12,Crystal Palace,45,34,1.32,11,12,11
+Premier League,2025,13,Wolves,41,34,1.21,12,5,17
+Premier League,2025,14,Everton,38,34,1.12,8,14,12
+Premier League,2025,15,Manchester Utd,38,33,1.15,10,8,15
+Premier League,2025,16,Tottenham,37,33,1.12,11,4,18
+Premier League,2025,17,West Ham,36,34,1.06,9,9,16
+Premier League,2025,18,Ipswich Town,21,34,0.62,4,9,21
+Premier League,2025,19,Leicester City,18,34,0.53,4,6,24
+Premier League,2025,20,Southampton,11,34,0.32,2,5,27
+Premier League,2024,1,Manchester City,91,38,2.39,28,7,3
+Premier League,2024,2,Arsenal,89,38,2.34,28,5,5
+Premier League,2024,3,Liverpool,82,38,2.16,24,10,4
+Premier League,2024,4,Aston Villa,68,38,1.79,20,8,10
+Premier League,2024,5,Tottenham,66,38,1.74,20,6,12
+Premier League,2024,6,Chelsea,63,38,1.66,18,9,11
+Premier League,2024,7,Newcastle Utd,60,38,1.58,18,6,14
+Premier League,2024,8,Manchester Utd,60,38,1.58,18,6,14
+Premier League,2024,9,West Ham,52,38,1.37,14,10,14
+Premier League,2024,10,Crystal Palace,49,38,1.29,13,10,15
+Premier League,2024,11,Brighton,48,38,1.26,12,12,14
+Premier League,2024,12,Bournemouth,48,38,1.26,13,9,16
+Premier League,2024,13,Fulham,47,38,1.24,13,8,17
+Premier League,2024,14,Wolves,46,38,1.21,13,7,18
+Premier League,2024,15,Everton,42,38,1.11,13,9,16
+Premier League,2024,16,Brentford,39,38,1.03,10,9,19
+Premier League,2024,17,Nott'ham Forest,32,38,0.84,9,9,20
+Premier League,2024,18,Luton Town,26,38,0.68,6,8,24
+Premier League,2024,19,Burnley,24,38,0.63,5,9,24
+Premier League,2024,20,Sheffield Utd,16,38,0.42,3,7,28
+Premier League,2023,1,Manchester City,89,38,2.34,28,5,5
+Premier League,2023,2,Arsenal,84,38,2.21,26,6,6
+Premier League,2023,3,Manchester Utd,75,38,1.97,23,6,9
+Premier League,2023,4,Newcastle Utd,71,38,1.87,19,14,5
+Premier League,2023,5,Liverpool,67,38,1.76,19,10,9
+Premier League,2023,6,Brighton,62,38,1.63,18,8,12
+Premier League,2023,7,Aston Villa,61,38,1.61,18,7,13
+Premier League,2023,8,Tottenham,60,38,1.58,18,6,14
+Premier League,2023,9,Brentford,59,38,1.55,15,14,9
+Premier League,2023,10,Fulham,52,38,1.37,15,7,16
+Premier League,2023,11,Crystal Palace,45,38,1.18,11,12,15
+Premier League,2023,12,Chelsea,44,38,1.16,11,11,16
+Premier League,2023,13,Wolves,41,38,1.08,11,8,19
+Premier League,2023,14,West Ham,40,38,1.05,11,7,20
+Premier League,2023,15,Bournemouth,39,38,1.03,11,6,21
+Premier League,2023,16,Nott'ham Forest,38,38,1.0,9,11,18
+Premier League,2023,17,Everton,36,38,0.95,8,12,18
+Premier League,2023,18,Leicester City,34,38,0.89,9,7,22
+Premier League,2023,19,Leeds United,31,38,0.82,7,10,21
+Premier League,2023,20,Southampton,25,38,0.66,6,7,25
+Premier League,2022,1,Manchester City,93,38,2.45,29,6,3
+Premier League,2022,2,Liverpool,92,38,2.42,28,8,2
+Premier League,2022,3,Chelsea,74,38,1.95,21,11,6
+Premier League,2022,4,Tottenham,71,38,1.87,22,5,11
+Premier League,2022,5,Arsenal,69,38,1.82,22,3,13
+Premier League,2022,6,Manchester Utd,58,38,1.53,16,10,12
+Premier League,2022,7,West Ham,56,38,1.47,16,8,14
+Premier League,2022,8,Leicester City,52,38,1.37,14,10,14
+Premier League,2022,9,Brighton,51,38,1.34,12,15,11
+Premier League,2022,10,Wolves,51,38,1.34,15,6,17
+Premier League,2022,11,Newcastle Utd,49,38,1.29,13,10,15
+Premier League,2022,12,Crystal Palace,48,38,1.26,11,15,12
+Premier League,2022,13,Brentford,46,38,1.21,13,7,18
+Premier League,2022,14,Aston Villa,45,38,1.18,13,6,19
+Premier League,2022,15,Southampton,40,38,1.05,9,13,16
+Premier League,2022,16,Everton,39,38,1.03,11,6,21
+Premier League,2022,17,Leeds United,38,38,1.0,9,11,18
+Premier League,2022,18,Burnley,35,38,0.92,7,14,17
+Premier League,2022,19,Watford,23,38,0.61,6,5,27
+Premier League,2022,20,Norwich City,22,38,0.58,5,7,26
+Premier League,2021,1,Manchester City,86,38,2.26,27,5,6
+Premier League,2021,2,Manchester Utd,74,38,1.95,21,11,6
+Premier League,2021,3,Liverpool,69,38,1.82,20,9,9
+Premier League,2021,4,Chelsea,67,38,1.76,19,10,9
+Premier League,2021,5,Leicester City,66,38,1.74,20,6,12
+Premier League,2021,6,West Ham,65,38,1.71,19,8,11
+Premier League,2021,7,Tottenham,62,38,1.63,18,8,12
+Premier League,2021,8,Arsenal,61,38,1.61,18,7,13
+Premier League,2021,9,Leeds United,59,38,1.55,18,5,15
+Premier League,2021,10,Everton,59,38,1.55,17,8,13
+Premier League,2021,11,Aston Villa,55,38,1.45,16,7,15
+Premier League,2021,12,Newcastle Utd,45,38,1.18,12,9,17
+Premier League,2021,13,Wolves,45,38,1.18,12,9,17
+Premier League,2021,14,Crystal Palace,44,38,1.16,12,8,18
+Premier League,2021,15,Southampton,43,38,1.13,12,7,19
+Premier League,2021,16,Brighton,41,38,1.08,9,14,15
+Premier League,2021,17,Burnley,39,38,1.03,10,9,19
+Premier League,2021,18,Fulham,28,38,0.74,5,13,20
+Premier League,2021,19,West Brom,26,38,0.68,5,11,22
+Premier League,2021,20,Sheffield Utd,23,38,0.61,7,2,29
+Premier League,2020,1,Liverpool,99,38,2.61,32,3,3
+Premier League,2020,2,Manchester City,81,38,2.13,26,3,9
+Premier League,2020,3,Manchester Utd,66,38,1.74,18,12,8
+Premier League,2020,4,Chelsea,66,38,1.74,20,6,12
+Premier League,2020,5,Leicester City,62,38,1.63,18,8,12
+Premier League,2020,6,Tottenham,59,38,1.55,16,11,11
+Premier League,2020,7,Wolves,59,38,1.55,15,14,9
+Premier League,2020,8,Arsenal,56,38,1.47,14,14,10
+Premier League,2020,9,Sheffield Utd,54,38,1.42,14,12,12
+Premier League,2020,10,Burnley,54,38,1.42,15,9,14
+Premier League,2020,11,Southampton,52,38,1.37,15,7,16
+Premier League,2020,12,Everton,49,38,1.29,13,10,15
+Premier League,2020,13,Newcastle Utd,44,38,1.16,11,11,16
+Premier League,2020,14,Crystal Palace,43,38,1.13,11,10,17
+Premier League,2020,15,Brighton,41,38,1.08,9,14,15
+Premier League,2020,16,West Ham,39,38,1.03,10,9,19
+Premier League,2020,17,Aston Villa,35,38,0.92,9,8,21
+Premier League,2020,18,Bournemouth,34,38,0.89,9,7,22
+Premier League,2020,19,Watford,34,38,0.89,8,10,20
+Premier League,2020,20,Norwich City,21,38,0.55,5,6,27
+Premier League,2019,1,Manchester City,98,38,2.58,32,2,4
+Premier League,2019,2,Liverpool,97,38,2.55,30,7,1
+Premier League,2019,3,Chelsea,72,38,1.89,21,9,8
+Premier League,2019,4,Tottenham,71,38,1.87,23,2,13
+Premier League,2019,5,Arsenal,70,38,1.84,21,7,10
+Premier League,2019,6,Manchester Utd,66,38,1.74,19,9,10
+Premier League,2019,7,Wolves,57,38,1.5,16,9,13
+Premier League,2019,8,Everton,54,38,1.42,15,9,14
+Premier League,2019,9,Leicester City,52,38,1.37,15,7,16
+Premier League,2019,10,West Ham,52,38,1.37,15,7,16
+Premier League,2019,11,Watford,50,38,1.32,14,8,16
+Premier League,2019,12,Crystal Palace,49,38,1.29,14,7,17
+Premier League,2019,13,Newcastle Utd,45,38,1.18,12,9,17
+Premier League,2019,14,Bournemouth,45,38,1.18,13,6,19
+Premier League,2019,15,Burnley,40,38,1.05,11,7,20
+Premier League,2019,16,Southampton,39,38,1.03,9,12,17
+Premier League,2019,17,Brighton,36,38,0.95,9,9,20
+Premier League,2019,18,Cardiff City,34,38,0.89,10,4,24
+Premier League,2019,19,Fulham,26,38,0.68,7,5,26
+Premier League,2019,20,Huddersfield,16,38,0.42,3,7,28
+Premier League,2018,1,Manchester City,100,38,2.63,32,4,2
+Premier League,2018,2,Manchester Utd,81,38,2.13,25,6,7
+Premier League,2018,3,Tottenham,77,38,2.03,23,8,7
+Premier League,2018,4,Liverpool,75,38,1.97,21,12,5
+Premier League,2018,5,Chelsea,70,38,1.84,21,7,10
+Premier League,2018,6,Arsenal,63,38,1.66,19,6,13
+Premier League,2018,7,Burnley,54,38,1.42,14,12,12
+Premier League,2018,8,Everton,49,38,1.29,13,10,15
+Premier League,2018,9,Leicester City,47,38,1.24,12,11,15
+Premier League,2018,10,Newcastle Utd,44,38,1.16,12,8,18
+Premier League,2018,11,Crystal Palace,44,38,1.16,11,11,16
+Premier League,2018,12,Bournemouth,44,38,1.16,11,11,16
+Premier League,2018,13,West Ham,42,38,1.11,10,12,16
+Premier League,2018,14,Watford,41,38,1.08,11,8,19
+Premier League,2018,15,Brighton,40,38,1.05,9,13,16
+Premier League,2018,16,Huddersfield,37,38,0.97,9,10,19
+Premier League,2018,17,Southampton,36,38,0.95,7,15,16
+Premier League,2018,18,Swansea City,33,38,0.87,8,9,21
+Premier League,2018,19,Stoke City,33,38,0.87,7,12,19
+Premier League,2018,20,West Brom,31,38,0.82,6,13,19
+Premier League,2017,1,Chelsea,93,38,2.45,30,3,5
+Premier League,2017,2,Tottenham,86,38,2.26,26,8,4
+Premier League,2017,3,Manchester City,78,38,2.05,23,9,6
+Premier League,2017,4,Liverpool,76,38,2.0,22,10,6
+Premier League,2017,5,Arsenal,75,38,1.97,23,6,9
+Premier League,2017,6,Manchester Utd,69,38,1.82,18,15,5
+Premier League,2017,7,Everton,61,38,1.61,17,10,11
+Premier League,2017,8,Southampton,46,38,1.21,12,10,16
+Premier League,2017,9,Bournemouth,46,38,1.21,12,10,16
+Premier League,2017,10,West Brom,45,38,1.18,12,9,17
+Premier League,2017,11,West Ham,45,38,1.18,12,9,17
+Premier League,2017,12,Leicester City,44,38,1.16,12,8,18
+Premier League,2017,13,Stoke City,44,38,1.16,11,11,16
+Premier League,2017,14,Crystal Palace,41,38,1.08,12,5,21
+Premier League,2017,15,Swansea City,41,38,1.08,12,5,21
+Premier League,2017,16,Burnley,40,38,1.05,11,7,20
+Premier League,2017,17,Watford,40,38,1.05,11,7,20
+Premier League,2017,18,Hull City,34,38,0.89,9,7,22
+Premier League,2017,19,Middlesbrough,28,38,0.74,5,13,20
+Premier League,2017,20,Sunderland,24,38,0.63,6,6,26
+Premier League,2016,1,Leicester City,81,38,2.13,23,12,3
+Premier League,2016,2,Arsenal,71,38,1.87,20,11,7
+Premier League,2016,3,Tottenham,70,38,1.84,19,13,6
+Premier League,2016,4,Manchester City,66,38,1.74,19,9,10
+Premier League,2016,5,Manchester Utd,66,38,1.74,19,9,10
+Premier League,2016,6,Southampton,63,38,1.66,18,9,11
+Premier League,2016,7,West Ham,62,38,1.63,16,14,8
+Premier League,2016,8,Liverpool,60,38,1.58,16,12,10
+Premier League,2016,9,Stoke City,51,38,1.34,14,9,15
+Premier League,2016,10,Chelsea,50,38,1.32,12,14,12
+Premier League,2016,11,Everton,47,38,1.24,11,14,13
+Premier League,2016,12,Swansea City,47,38,1.24,12,11,15
+Premier League,2016,13,Watford,45,38,1.18,12,9,17
+Premier League,2016,14,West Brom,43,38,1.13,10,13,15
+Premier League,2016,15,Crystal Palace,42,38,1.11,11,9,18
+Premier League,2016,16,Bournemouth,42,38,1.11,11,9,18
+Premier League,2016,17,Sunderland,39,38,1.03,9,12,17
+Premier League,2016,18,Newcastle Utd,37,38,0.97,9,10,19
+Premier League,2016,19,Norwich City,34,38,0.89,9,7,22
+Premier League,2016,20,Aston Villa,17,38,0.45,3,8,27
+Premier League,2015,1,Chelsea,87,38,2.29,26,9,3
+Premier League,2015,2,Manchester City,79,38,2.08,24,7,7
+Premier League,2015,3,Arsenal,75,38,1.97,22,9,7
+Premier League,2015,4,Manchester Utd,70,38,1.84,20,10,8
+Premier League,2015,5,Tottenham,64,38,1.68,19,7,12
+Premier League,2015,6,Liverpool,62,38,1.63,18,8,12
+Premier League,2015,7,Southampton,60,38,1.58,18,6,14
+Premier League,2015,8,Swansea City,56,38,1.47,16,8,14
+Premier League,2015,9,Stoke City,54,38,1.42,15,9,14
+Premier League,2015,10,Crystal Palace,48,38,1.26,13,9,16
+Premier League,2015,11,Everton,47,38,1.24,12,11,15
+Premier League,2015,12,West Ham,47,38,1.24,12,11,15
+Premier League,2015,13,West Brom,44,38,1.16,11,11,16
+Premier League,2015,14,Leicester City,41,38,1.08,11,8,19
+Premier League,2015,15,Newcastle Utd,39,38,1.03,10,9,19
+Premier League,2015,16,Sunderland,38,38,1.0,7,17,14
+Premier League,2015,17,Aston Villa,38,38,1.0,10,8,20
+Premier League,2015,18,Hull City,35,38,0.92,8,11,19
+Premier League,2015,19,Burnley,33,38,0.87,7,12,19
+Premier League,2015,20,QPR,30,38,0.79,8,6,24
+Premier League,2014,1,Manchester City,86,38,2.26,27,5,6
+Premier League,2014,2,Liverpool,84,38,2.21,26,6,6
+Premier League,2014,3,Chelsea,82,38,2.16,25,7,6
+Premier League,2014,4,Arsenal,79,38,2.08,24,7,7
+Premier League,2014,5,Everton,72,38,1.89,21,9,8
+Premier League,2014,6,Tottenham,69,38,1.82,21,6,11
+Premier League,2014,7,Manchester Utd,64,38,1.68,19,7,12
+Premier League,2014,8,Southampton,56,38,1.47,15,11,12
+Premier League,2014,9,Stoke City,50,38,1.32,13,11,14
+Premier League,2014,10,Newcastle Utd,49,38,1.29,15,4,19
+Premier League,2014,11,Crystal Palace,45,38,1.18,13,6,19
+Premier League,2014,12,Swansea City,42,38,1.11,11,9,18
+Premier League,2014,13,West Ham,40,38,1.05,11,7,20
+Premier League,2014,14,Sunderland,38,38,1.0,10,8,20
+Premier League,2014,15,Aston Villa,38,38,1.0,10,8,20
+Premier League,2014,16,Hull City,37,38,0.97,10,7,21
+Premier League,2014,17,West Brom,36,38,0.95,7,15,16
+Premier League,2014,18,Norwich City,33,38,0.87,8,9,21
+Premier League,2014,19,Fulham,32,38,0.84,9,5,24
+Premier League,2014,20,Cardiff City,30,38,0.79,7,9,22
+Premier League,2013,1,Manchester Utd,89,38,2.34,28,5,5
+Premier League,2013,2,Manchester City,78,38,2.05,23,9,6
+Premier League,2013,3,Chelsea,75,38,1.97,22,9,7
+Premier League,2013,4,Arsenal,73,38,1.92,21,10,7
+Premier League,2013,5,Tottenham,72,38,1.89,21,9,8
+Premier League,2013,6,Everton,63,38,1.66,16,15,7
+Premier League,2013,7,Liverpool,61,38,1.61,16,13,9
+Premier League,2013,8,West Brom,49,38,1.29,14,7,17
+Premier League,2013,9,Swansea City,46,38,1.21,11,13,14
+Premier League,2013,10,West Ham,46,38,1.21,12,10,16
+Premier League,2013,11,Norwich City,44,38,1.16,10,14,14
+Premier League,2013,12,Fulham,43,38,1.13,11,10,17
+Premier League,2013,13,Stoke City,42,38,1.11,9,15,14
+Premier League,2013,14,Southampton,41,38,1.08,9,14,15
+Premier League,2013,15,Aston Villa,41,38,1.08,10,11,17
+Premier League,2013,16,Newcastle Utd,41,38,1.08,11,8,19
+Premier League,2013,17,Sunderland,39,38,1.03,9,12,17
+Premier League,2013,18,Wigan Athletic,36,38,0.95,9,9,20
+Premier League,2013,19,Reading,28,38,0.74,6,10,22
+Premier League,2013,20,QPR,25,38,0.66,4,13,21
+Premier League,2012,1,Manchester City,89,38,2.34,28,5,5
+Premier League,2012,2,Manchester Utd,89,38,2.34,28,5,5
+Premier League,2012,3,Arsenal,70,38,1.84,21,7,10
+Premier League,2012,4,Tottenham,69,38,1.82,20,9,9
+Premier League,2012,5,Newcastle Utd,65,38,1.71,19,8,11
+Premier League,2012,6,Chelsea,64,38,1.68,18,10,10
+Premier League,2012,7,Everton,56,38,1.47,15,11,12
+Premier League,2012,8,Liverpool,52,38,1.37,14,10,14
+Premier League,2012,9,Fulham,52,38,1.37,14,10,14
+Premier League,2012,10,West Brom,47,38,1.24,13,8,17
+Premier League,2012,11,Swansea City,47,38,1.24,12,11,15
+Premier League,2012,12,Norwich City,47,38,1.24,12,11,15
+Premier League,2012,13,Sunderland,45,38,1.18,11,12,15
+Premier League,2012,14,Stoke City,45,38,1.18,11,12,15
+Premier League,2012,15,Wigan Athletic,43,38,1.13,11,10,17
+Premier League,2012,16,Aston Villa,38,38,1.0,7,17,14
+Premier League,2012,17,QPR,37,38,0.97,10,7,21
+Premier League,2012,18,Bolton,36,38,0.95,10,6,22
+Premier League,2012,19,Blackburn,31,38,0.82,8,7,23
+Premier League,2012,20,Wolves,25,38,0.66,5,10,23
+Premier League,2011,1,Manchester Utd,80,38,2.11,23,11,4
+Premier League,2011,2,Chelsea,71,38,1.87,21,8,9
+Premier League,2011,3,Manchester City,71,38,1.87,21,8,9
+Premier League,2011,4,Arsenal,68,38,1.79,19,11,8
+Premier League,2011,5,Tottenham,62,38,1.63,16,14,8
+Premier League,2011,6,Liverpool,58,38,1.53,17,7,14
+Premier League,2011,7,Everton,54,38,1.42,13,15,10
+Premier League,2011,8,Fulham,49,38,1.29,11,16,11
+Premier League,2011,9,Aston Villa,48,38,1.26,12,12,14
+Premier League,2011,10,Sunderland,47,38,1.24,12,11,15
+Premier League,2011,11,West Brom,47,38,1.24,12,11,15
+Premier League,2011,12,Newcastle Utd,46,38,1.21,11,13,14
+Premier League,2011,13,Stoke City,46,38,1.21,13,7,18
+Premier League,2011,14,Bolton,46,38,1.21,12,10,16
+Premier League,2011,15,Blackburn,43,38,1.13,11,10,17
+Premier League,2011,16,Wigan Athletic,42,38,1.11,9,15,14
+Premier League,2011,17,Wolves,40,38,1.05,11,7,20
+Premier League,2011,18,Birmingham City,39,38,1.03,8,15,15
+Premier League,2011,19,Blackpool,39,38,1.03,10,9,19
+Premier League,2011,20,West Ham,33,38,0.87,7,12,19
+La Liga,2025,1,Barcelona,76,33,2.3,24,4,5
+La Liga,2025,2,Real Madrid,72,33,2.18,22,6,5
+La Liga,2025,3,Atlético Madrid,66,33,2.0,19,9,5
+La Liga,2025,4,Athletic Club,60,33,1.82,16,12,5
+La Liga,2025,5,Betis,54,33,1.64,15,9,9
+La Liga,2025,6,Villarreal,52,32,1.63,14,10,8
+La Liga,2025,7,Celta Vigo,46,33,1.39,13,7,13
+La Liga,2025,8,Osasuna,44,33,1.33,10,14,9
+La Liga,2025,9,Mallorca,44,33,1.33,12,8,13
+La Liga,2025,10,Real Sociedad,42,33,1.27,12,6,15
+La Liga,2025,11,Rayo Vallecano,41,33,1.24,10,11,12
+La Liga,2025,12,Getafe,39,33,1.18,10,9,14
+La Liga,2025,13,Espanyol,39,32,1.22,10,9,13
+La Liga,2025,14,Valencia,39,33,1.18,9,12,12
+La Liga,2025,15,Sevilla,37,33,1.12,9,10,14
+La Liga,2025,16,Girona,35,33,1.06,9,8,16
+La Liga,2025,17,Alavés,34,33,1.03,8,10,15
+La Liga,2025,18,Las Palmas,32,33,0.97,8,8,17
+La Liga,2025,19,Leganés,30,33,0.91,6,12,15
+La Liga,2025,20,Valladolid,16,33,0.48,4,4,25
+La Liga,2024,1,Real Madrid,95,38,2.5,29,8,1
+La Liga,2024,2,Barcelona,85,38,2.24,26,7,5
+La Liga,2024,3,Girona,81,38,2.13,25,6,7
+La Liga,2024,4,Atlético Madrid,76,38,2.0,24,4,10
+La Liga,2024,5,Athletic Club,68,38,1.79,19,11,8
+La Liga,2024,6,Real Sociedad,60,38,1.58,16,12,10
+La Liga,2024,7,Betis,57,38,1.5,14,15,9
+La Liga,2024,8,Villarreal,53,38,1.39,14,11,13
+La Liga,2024,9,Valencia,49,38,1.29,13,10,15
+La Liga,2024,10,Alavés,46,38,1.21,12,10,16
+La Liga,2024,11,Osasuna,45,38,1.18,12,9,17
+La Liga,2024,12,Getafe,43,38,1.13,10,13,15
+La Liga,2024,13,Celta Vigo,41,38,1.08,10,11,17
+La Liga,2024,14,Sevilla,41,38,1.08,10,11,17
+La Liga,2024,15,Mallorca,40,38,1.05,8,16,14
+La Liga,2024,16,Las Palmas,40,38,1.05,10,10,18
+La Liga,2024,17,Rayo Vallecano,38,38,1.0,8,14,16
+La Liga,2024,18,Cádiz,33,38,0.87,6,15,17
+La Liga,2024,19,Almería,21,38,0.55,3,12,23
+La Liga,2024,20,Granada,21,38,0.55,4,9,25
+La Liga,2023,1,Barcelona,88,38,2.32,28,4,6
+La Liga,2023,2,Real Madrid,78,38,2.05,24,6,8
+La Liga,2023,3,Atlético Madrid,77,38,2.03,23,8,7
+La Liga,2023,4,Real Sociedad,71,38,1.87,21,8,9
+La Liga,2023,5,Villarreal,64,38,1.68,19,7,12
+La Liga,2023,6,Betis,60,38,1.58,17,9,12
+La Liga,2023,7,Osasuna,53,38,1.39,15,8,15
+La Liga,2023,8,Athletic Club,51,38,1.34,14,9,15
+La Liga,2023,9,Mallorca,50,38,1.32,14,8,16
+La Liga,2023,10,Girona,49,38,1.29,13,10,15
+La Liga,2023,11,Rayo Vallecano,49,38,1.29,13,10,15
+La Liga,2023,12,Sevilla,49,38,1.29,13,10,15
+La Liga,2023,13,Celta Vigo,43,38,1.13,11,10,17
+La Liga,2023,14,Cádiz,42,38,1.11,10,12,16
+La Liga,2023,15,Getafe,42,38,1.11,10,12,16
+La Liga,2023,16,Valencia,42,38,1.11,11,9,18
+La Liga,2023,17,Almería,41,38,1.08,11,8,19
+La Liga,2023,18,Valladolid,40,38,1.05,11,7,20
+La Liga,2023,19,Espanyol,37,38,0.97,8,13,17
+La Liga,2023,20,Elche,25,38,0.66,5,10,23
+La Liga,2022,1,Real Madrid,86,38,2.26,26,8,4
+La Liga,2022,2,Barcelona,73,38,1.92,21,10,7
+La Liga,2022,3,Atlético Madrid,71,38,1.87,21,8,9
+La Liga,2022,4,Sevilla,70,38,1.84,18,16,4
+La Liga,2022,5,Betis,65,38,1.71,19,8,11
+La Liga,2022,6,Real Sociedad,62,38,1.63,17,11,10
+La Liga,2022,7,Villarreal,59,38,1.55,16,11,11
+La Liga,2022,8,Athletic Club,55,38,1.45,14,13,11
+La Liga,2022,9,Valencia,48,38,1.26,11,15,12
+La Liga,2022,10,Osasuna,47,38,1.24,12,11,15
+La Liga,2022,11,Celta Vigo,46,38,1.21,12,10,16
+La Liga,2022,12,Rayo Vallecano,42,38,1.11,11,9,18
+La Liga,2022,13,Elche,42,38,1.11,11,9,18
+La Liga,2022,14,Espanyol,42,38,1.11,10,12,16
+La Liga,2022,15,Getafe,39,38,1.03,8,15,15
+La Liga,2022,16,Mallorca,39,38,1.03,10,9,19
+La Liga,2022,17,Cádiz,39,38,1.03,8,15,15
+La Liga,2022,18,Granada,38,38,1.0,8,14,16
+La Liga,2022,19,Levante,35,38,0.92,8,11,19
+La Liga,2022,20,Alavés,31,38,0.82,8,7,23
+La Liga,2021,1,Atlético Madrid,86,38,2.26,26,8,4
+La Liga,2021,2,Real Madrid,84,38,2.21,25,9,4
+La Liga,2021,3,Barcelona,79,38,2.08,24,7,7
+La Liga,2021,4,Sevilla,77,38,2.03,24,5,9
+La Liga,2021,5,Real Sociedad,62,38,1.63,17,11,10
+La Liga,2021,6,Betis,61,38,1.61,17,10,11
+La Liga,2021,7,Villarreal,58,38,1.53,15,13,10
+La Liga,2021,8,Celta Vigo,53,38,1.39,14,11,13
+La Liga,2021,9,Granada,46,38,1.21,13,7,18
+La Liga,2021,10,Athletic Club,46,38,1.21,11,13,14
+La Liga,2021,11,Osasuna,44,38,1.16,11,11,16
+La Liga,2021,12,Cádiz,44,38,1.16,11,11,16
+La Liga,2021,13,Valencia,43,38,1.13,10,13,15
+La Liga,2021,14,Levante,41,38,1.08,9,14,15
+La Liga,2021,15,Getafe,38,38,1.0,9,11,18
+La Liga,2021,16,Alavés,38,38,1.0,9,11,18
+La Liga,2021,17,Elche,36,38,0.95,8,12,18
+La Liga,2021,18,Huesca,34,38,0.89,7,13,18
+La Liga,2021,19,Valladolid,31,38,0.82,5,16,17
+La Liga,2021,20,Eibar,30,38,0.79,6,12,20
+La Liga,2020,1,Real Madrid,87,38,2.29,26,9,3
+La Liga,2020,2,Barcelona,82,38,2.16,25,7,6
+La Liga,2020,3,Atlético Madrid,70,38,1.84,18,16,4
+La Liga,2020,4,Sevilla,70,38,1.84,19,13,6
+La Liga,2020,5,Villarreal,60,38,1.58,18,6,14
+La Liga,2020,6,Real Sociedad,56,38,1.47,16,8,14
+La Liga,2020,7,Granada,56,38,1.47,16,8,14
+La Liga,2020,8,Getafe,54,38,1.42,14,12,12
+La Liga,2020,9,Valencia,53,38,1.39,14,11,13
+La Liga,2020,10,Osasuna,52,38,1.37,13,13,12
+La Liga,2020,11,Athletic Club,51,38,1.34,13,12,13
+La Liga,2020,12,Levante,49,38,1.29,14,7,17
+La Liga,2020,13,Valladolid,42,38,1.11,9,15,14
+La Liga,2020,14,Eibar,42,38,1.11,11,9,18
+La Liga,2020,15,Betis,41,38,1.08,10,11,17
+La Liga,2020,16,Alavés,39,38,1.03,10,9,19
+La Liga,2020,17,Celta Vigo,37,38,0.97,7,16,15
+La Liga,2020,18,Leganés,36,38,0.95,8,12,18
+La Liga,2020,19,Mallorca,33,38,0.87,9,6,23
+La Liga,2020,20,Espanyol,25,38,0.66,5,10,23
+La Liga,2019,1,Barcelona,87,38,2.29,26,9,3
+La Liga,2019,2,Atlético Madrid,76,38,2.0,22,10,6
+La Liga,2019,3,Real Madrid,68,38,1.79,21,5,12
+La Liga,2019,4,Valencia,61,38,1.61,15,16,7
+La Liga,2019,5,Getafe,59,38,1.55,15,14,9
+La Liga,2019,6,Sevilla,59,38,1.55,17,8,13
+La Liga,2019,7,Espanyol,53,38,1.39,14,11,13
+La Liga,2019,8,Athletic Club,53,38,1.39,13,14,11
+La Liga,2019,9,Real Sociedad,50,38,1.32,13,11,14
+La Liga,2019,10,Betis,50,38,1.32,14,8,16
+La Liga,2019,11,Alavés,50,38,1.32,13,11,14
+La Liga,2019,12,Eibar,47,38,1.24,11,14,13
+La Liga,2019,13,Leganés,45,38,1.18,11,12,15
+La Liga,2019,14,Villarreal,44,38,1.16,10,14,14
+La Liga,2019,15,Levante,44,38,1.16,11,11,16
+La Liga,2019,16,Valladolid,41,38,1.08,10,11,17
+La Liga,2019,17,Celta Vigo,41,38,1.08,10,11,17
+La Liga,2019,18,Girona,37,38,0.97,9,10,19
+La Liga,2019,19,Huesca,33,38,0.87,7,12,19
+La Liga,2019,20,Rayo Vallecano,32,38,0.84,8,8,22
+La Liga,2018,1,Barcelona,93,38,2.45,28,9,1
+La Liga,2018,2,Atlético Madrid,79,38,2.08,23,10,5
+La Liga,2018,3,Real Madrid,76,38,2.0,22,10,6
+La Liga,2018,4,Valencia,73,38,1.92,22,7,9
+La Liga,2018,5,Villarreal,61,38,1.61,18,7,13
+La Liga,2018,6,Betis,60,38,1.58,18,6,14
+La Liga,2018,7,Sevilla,58,38,1.53,17,7,14
+La Liga,2018,8,Getafe,55,38,1.45,15,10,13
+La Liga,2018,9,Eibar,51,38,1.34,14,9,15
+La Liga,2018,10,Girona,51,38,1.34,14,9,15
+La Liga,2018,11,Espanyol,49,38,1.29,12,13,13
+La Liga,2018,12,Real Sociedad,49,38,1.29,14,7,17
+La Liga,2018,13,Celta Vigo,49,38,1.29,13,10,15
+La Liga,2018,14,Alavés,47,38,1.24,15,2,21
+La Liga,2018,15,Levante,46,38,1.21,11,13,14
+La Liga,2018,16,Athletic Club,43,38,1.13,10,13,15
+La Liga,2018,17,Leganés,43,38,1.13,12,7,19
+La Liga,2018,18,La Coruña,29,38,0.76,6,11,21
+La Liga,2018,19,Las Palmas,22,38,0.58,5,7,26
+La Liga,2018,20,Málaga,20,38,0.53,5,5,28
+La Liga,2017,1,Real Madrid,93,38,2.45,29,6,3
+La Liga,2017,2,Barcelona,90,38,2.37,28,6,4
+La Liga,2017,3,Atlético Madrid,78,38,2.05,23,9,6
+La Liga,2017,4,Sevilla,72,38,1.89,21,9,8
+La Liga,2017,5,Villarreal,67,38,1.76,19,10,9
+La Liga,2017,6,Real Sociedad,64,38,1.68,19,7,12
+La Liga,2017,7,Athletic Club,63,38,1.66,19,6,13
+La Liga,2017,8,Espanyol,56,38,1.47,15,11,12
+La Liga,2017,9,Alavés,55,38,1.45,14,13,11
+La Liga,2017,10,Eibar,54,38,1.42,15,9,14
+La Liga,2017,11,Málaga,46,38,1.21,12,10,16
+La Liga,2017,12,Valencia,46,38,1.21,13,7,18
+La Liga,2017,13,Celta Vigo,45,38,1.18,13,6,19
+La Liga,2017,14,Las Palmas,39,38,1.03,10,9,19
+La Liga,2017,15,Betis,39,38,1.03,10,9,19
+La Liga,2017,16,La Coruña,36,38,0.95,8,12,18
+La Liga,2017,17,Leganés,35,38,0.92,8,11,19
+La Liga,2017,18,Sporting Gijón,31,38,0.82,7,10,21
+La Liga,2017,19,Osasuna,22,38,0.58,4,10,24
+La Liga,2017,20,Granada,20,38,0.53,4,8,26
+La Liga,2016,1,Barcelona,91,38,2.39,29,4,5
+La Liga,2016,2,Real Madrid,90,38,2.37,28,6,4
+La Liga,2016,3,Atlético Madrid,88,38,2.32,28,4,6
+La Liga,2016,4,Villarreal,64,38,1.68,18,10,10
+La Liga,2016,5,Athletic Club,62,38,1.63,18,8,12
+La Liga,2016,6,Celta Vigo,60,38,1.58,17,9,12
+La Liga,2016,7,Sevilla,52,38,1.37,14,10,14
+La Liga,2016,8,Málaga,48,38,1.26,12,12,14
+La Liga,2016,9,Real Sociedad,48,38,1.26,13,9,16
+La Liga,2016,10,Betis,45,38,1.18,11,12,15
+La Liga,2016,11,Las Palmas,44,38,1.16,12,8,18
+La Liga,2016,12,Valencia,44,38,1.16,11,11,16
+La Liga,2016,13,Espanyol,43,38,1.13,12,7,19
+La Liga,2016,14,Eibar,43,38,1.13,11,10,17
+La Liga,2016,15,La Coruña,42,38,1.11,8,18,12
+La Liga,2016,16,Granada,39,38,1.03,10,9,19
+La Liga,2016,17,Sporting Gijón,39,38,1.03,10,9,19
+La Liga,2016,18,Rayo Vallecano,38,38,1.0,9,11,18
+La Liga,2016,19,Getafe,36,38,0.95,9,9,20
+La Liga,2016,20,Levante,32,38,0.84,8,8,22
+La Liga,2015,1,Barcelona,94,38,2.47,30,4,4
+La Liga,2015,2,Real Madrid,92,38,2.42,30,2,6
+La Liga,2015,3,Atlético Madrid,78,38,2.05,23,9,6
+La Liga,2015,4,Valencia,77,38,2.03,22,11,5
+La Liga,2015,5,Sevilla,76,38,2.0,23,7,8
+La Liga,2015,6,Villarreal,60,38,1.58,16,12,10
+La Liga,2015,7,Athletic Club,55,38,1.45,15,10,13
+La Liga,2015,8,Celta Vigo,51,38,1.34,13,12,13
+La Liga,2015,9,Málaga,50,38,1.32,14,8,16
+La Liga,2015,10,Espanyol,49,38,1.29,13,10,15
+La Liga,2015,11,Rayo Vallecano,49,38,1.29,15,4,19
+La Liga,2015,12,Real Sociedad,46,38,1.21,11,13,14
+La Liga,2015,13,Elche,41,38,1.08,11,8,19
+La Liga,2015,14,Levante,37,38,0.97,9,10,19
+La Liga,2015,15,Getafe,37,38,0.97,10,7,21
+La Liga,2015,16,La Coruña,35,38,0.92,7,14,17
+La Liga,2015,17,Granada,35,38,0.92,7,14,17
+La Liga,2015,18,Eibar,35,38,0.92,9,8,21
+La Liga,2015,19,Almería,29,38,0.76,8,8,22
+La Liga,2015,20,Córdoba,20,38,0.53,3,11,24
+La Liga,2014,1,Atlético Madrid,90,38,2.37,28,6,4
+La Liga,2014,2,Barcelona,87,38,2.29,27,6,5
+La Liga,2014,3,Real Madrid,87,38,2.29,27,6,5
+La Liga,2014,4,Athletic Club,70,38,1.84,20,10,8
+La Liga,2014,5,Sevilla,63,38,1.66,18,9,11
+La Liga,2014,6,Villarreal,59,38,1.55,17,8,13
+La Liga,2014,7,Real Sociedad,59,38,1.55,16,11,11
+La Liga,2014,8,Valencia,49,38,1.29,13,10,15
+La Liga,2014,9,Celta Vigo,49,38,1.29,14,7,17
+La Liga,2014,10,Levante,48,38,1.26,12,12,14
+La Liga,2014,11,Málaga,45,38,1.18,12,9,17
+La Liga,2014,12,Rayo Vallecano,43,38,1.13,13,4,21
+La Liga,2014,13,Getafe,42,38,1.11,11,9,18
+La Liga,2014,14,Espanyol,42,38,1.11,11,9,18
+La Liga,2014,15,Granada,41,38,1.08,12,5,21
+La Liga,2014,16,Elche,40,38,1.05,9,13,16
+La Liga,2014,17,Almería,40,38,1.05,11,7,20
+La Liga,2014,18,Osasuna,39,38,1.03,10,9,19
+La Liga,2014,19,Valladolid,36,38,0.95,7,15,16
+La Liga,2014,20,Betis,25,38,0.66,6,7,25
+La Liga,2013,1,Barcelona,100,38,2.63,32,4,2
+La Liga,2013,2,Real Madrid,85,38,2.24,26,7,5
+La Liga,2013,3,Atlético Madrid,76,38,2.0,23,7,8
+La Liga,2013,4,Real Sociedad,66,38,1.74,18,12,8
+La Liga,2013,5,Valencia,65,38,1.71,19,8,11
+La Liga,2013,6,Málaga,57,38,1.5,16,9,13
+La Liga,2013,7,Betis,56,38,1.47,16,8,14
+La Liga,2013,8,Rayo Vallecano,53,38,1.39,16,5,17
+La Liga,2013,9,Sevilla,50,38,1.32,14,8,16
+La Liga,2013,10,Getafe,47,38,1.24,13,8,17
+La Liga,2013,11,Levante,46,38,1.21,12,10,16
+La Liga,2013,12,Athletic Club,45,38,1.18,12,9,17
+La Liga,2013,13,Espanyol,44,38,1.16,11,11,16
+La Liga,2013,14,Valladolid,43,38,1.13,11,10,17
+La Liga,2013,15,Granada,42,38,1.11,11,9,18
+La Liga,2013,16,Osasuna,39,38,1.03,10,9,19
+La Liga,2013,17,Celta Vigo,37,38,0.97,10,7,21
+La Liga,2013,18,Mallorca,36,38,0.95,9,9,20
+La Liga,2013,19,La Coruña,35,38,0.92,8,11,19
+La Liga,2013,20,Zaragoza,34,38,0.89,9,7,22
+La Liga,2012,1,Real Madrid,100,38,2.63,32,4,2
+La Liga,2012,2,Barcelona,91,38,2.39,28,7,3
+La Liga,2012,3,Valencia,61,38,1.61,17,10,11
+La Liga,2012,4,Málaga,58,38,1.53,17,7,14
+La Liga,2012,5,Atlético Madrid,56,38,1.47,15,11,12
+La Liga,2012,6,Levante,55,38,1.45,16,7,15
+La Liga,2012,7,Osasuna,54,38,1.42,13,15,10
+La Liga,2012,8,Mallorca,52,38,1.37,14,10,14
+La Liga,2012,9,Sevilla,50,38,1.32,13,11,14
+La Liga,2012,10,Athletic Club,49,38,1.29,12,13,13
+La Liga,2012,11,Getafe,47,38,1.24,12,11,15
+La Liga,2012,12,Real Sociedad,47,38,1.24,12,11,15
+La Liga,2012,13,Betis,47,38,1.24,13,8,17
+La Liga,2012,14,Espanyol,46,38,1.21,12,10,16
+La Liga,2012,15,Rayo Vallecano,43,38,1.13,13,4,21
+La Liga,2012,16,Zaragoza,43,38,1.13,12,7,19
+La Liga,2012,17,Granada,42,38,1.11,12,6,20
+La Liga,2012,18,Villarreal,41,38,1.08,9,14,15
+La Liga,2012,19,Sporting Gijón,37,38,0.97,10,7,21
+La Liga,2012,20,Racing Sant,27,38,0.71,4,15,19
+La Liga,2011,1,Barcelona,96,38,2.53,30,6,2
+La Liga,2011,2,Real Madrid,92,38,2.42,29,5,4
+La Liga,2011,3,Valencia,71,38,1.87,21,8,9
+La Liga,2011,4,Villarreal,62,38,1.63,18,8,12
+La Liga,2011,5,Sevilla,58,38,1.53,17,7,14
+La Liga,2011,6,Athletic Club,58,38,1.53,18,4,16
+La Liga,2011,7,Atlético Madrid,58,38,1.53,17,7,14
+La Liga,2011,8,Espanyol,49,38,1.29,15,4,19
+La Liga,2011,9,Osasuna,47,38,1.24,13,8,17
+La Liga,2011,10,Sporting Gijón,47,38,1.24,11,14,13
+La Liga,2011,11,Málaga,46,38,1.21,13,7,18
+La Liga,2011,12,Racing Sant,46,38,1.21,12,10,16
+La Liga,2011,13,Zaragoza,45,38,1.18,12,9,17
+La Liga,2011,14,Levante,45,38,1.18,12,9,17
+La Liga,2011,15,Real Sociedad,45,38,1.18,14,3,21
+La Liga,2011,16,Getafe,44,38,1.16,12,8,18
+La Liga,2011,17,Mallorca,44,38,1.16,12,8,18
+La Liga,2011,18,La Coruña,43,38,1.13,10,13,15
+La Liga,2011,19,Hércules,35,38,0.92,9,8,21
+La Liga,2011,20,Almería,30,38,0.79,6,12,20
+Serie A,2025,1,Inter,71,33,2.15,21,8,4
+Serie A,2025,2,Napoli,71,33,2.15,21,8,4
+Serie A,2025,3,Atalanta,64,33,1.94,19,7,7
+Serie A,2025,4,Bologna,60,33,1.82,16,12,5
+Serie A,2025,5,Juventus,59,33,1.79,15,14,4
+Serie A,2025,6,Lazio,59,33,1.79,17,8,8
+Serie A,2025,7,Roma,57,33,1.73,16,9,8
+Serie A,2025,8,Fiorentina,56,33,1.7,16,8,9
+Serie A,2025,9,Milan,51,33,1.55,14,9,10
+Serie A,2025,10,Torino,43,33,1.3,10,13,10
+Serie A,2025,11,Udinese,40,33,1.21,11,7,15
+Serie A,2025,12,Como,39,33,1.18,10,9,14
+Serie A,2025,13,Genoa,39,33,1.18,9,12,12
+Serie A,2025,14,Hellas Verona,32,33,0.97,9,5,19
+Serie A,2025,15,Parma,31,33,0.94,6,13,14
+Serie A,2025,16,Cagliari,30,33,0.91,7,9,17
+Serie A,2025,17,Lecce,26,33,0.79,6,8,19
+Serie A,2025,18,Venezia,25,33,0.76,4,13,16
+Serie A,2025,19,Empoli,25,33,0.76,4,13,16
+Serie A,2025,20,Monza,15,33,0.45,2,9,22
+Serie A,2024,1,Inter,94,38,2.47,29,7,2
+Serie A,2024,2,Milan,75,38,1.97,22,9,7
+Serie A,2024,3,Juventus,71,38,1.87,19,14,5
+Serie A,2024,4,Atalanta,69,38,1.82,21,6,11
+Serie A,2024,5,Bologna,68,38,1.79,18,14,6
+Serie A,2024,6,Roma,63,38,1.66,18,9,11
+Serie A,2024,7,Lazio,61,38,1.61,18,7,13
+Serie A,2024,8,Fiorentina,60,38,1.58,17,9,12
+Serie A,2024,9,Torino,53,38,1.39,13,14,11
+Serie A,2024,10,Napoli,53,38,1.39,13,14,11
+Serie A,2024,11,Genoa,49,38,1.29,12,13,13
+Serie A,2024,12,Monza,45,38,1.18,11,12,15
+Serie A,2024,13,Hellas Verona,38,38,1.0,9,11,18
+Serie A,2024,14,Lecce,38,38,1.0,8,14,16
+Serie A,2024,15,Udinese,37,38,0.97,6,19,13
+Serie A,2024,16,Cagliari,36,38,0.95,8,12,18
+Serie A,2024,17,Empoli,36,38,0.95,9,9,20
+Serie A,2024,18,Frosinone,35,38,0.92,8,11,19
+Serie A,2024,19,Sassuolo,30,38,0.79,7,9,22
+Serie A,2024,20,Salernitana,17,38,0.45,2,11,25
+Serie A,2023,1,Napoli,90,38,2.37,28,6,4
+Serie A,2023,2,Lazio,74,38,1.95,22,8,8
+Serie A,2023,3,Inter,72,38,1.89,23,3,12
+Serie A,2023,4,Milan,70,38,1.84,20,10,8
+Serie A,2023,5,Atalanta,64,38,1.68,19,7,12
+Serie A,2023,6,Roma,63,38,1.66,18,9,11
+Serie A,2023,7,Juventus,62,38,1.63,22,6,10
+Serie A,2023,8,Fiorentina,56,38,1.47,15,11,12
+Serie A,2023,9,Bologna,54,38,1.42,14,12,12
+Serie A,2023,10,Torino,53,38,1.39,14,11,13
+Serie A,2023,11,Monza,52,38,1.37,14,10,14
+Serie A,2023,12,Udinese,46,38,1.21,11,13,14
+Serie A,2023,13,Sassuolo,45,38,1.18,12,9,17
+Serie A,2023,14,Empoli,43,38,1.13,10,13,15
+Serie A,2023,15,Salernitana,42,38,1.11,9,15,14
+Serie A,2023,16,Lecce,36,38,0.95,8,12,18
+Serie A,2023,17,Spezia,31,38,0.82,6,13,19
+Serie A,2023,18,Hellas Verona,31,38,0.82,7,10,21
+Serie A,2023,19,Cremonese,27,38,0.71,5,12,21
+Serie A,2023,20,Sampdoria,19,38,0.5,3,10,25
+Serie A,2022,1,Milan,86,38,2.26,26,8,4
+Serie A,2022,2,Inter,84,38,2.21,25,9,4
+Serie A,2022,3,Napoli,79,38,2.08,24,7,7
+Serie A,2022,4,Juventus,70,38,1.84,20,10,8
+Serie A,2022,5,Lazio,64,38,1.68,18,10,10
+Serie A,2022,6,Roma,63,38,1.66,18,9,11
+Serie A,2022,7,Fiorentina,62,38,1.63,19,5,14
+Serie A,2022,8,Atalanta,59,38,1.55,16,11,11
+Serie A,2022,9,Hellas Verona,53,38,1.39,14,11,13
+Serie A,2022,10,Torino,50,38,1.32,13,11,14
+Serie A,2022,11,Sassuolo,50,38,1.32,13,11,14
+Serie A,2022,12,Udinese,47,38,1.24,11,14,13
+Serie A,2022,13,Bologna,46,38,1.21,12,10,16
+Serie A,2022,14,Empoli,41,38,1.08,10,11,17
+Serie A,2022,15,Sampdoria,36,38,0.95,10,6,22
+Serie A,2022,16,Spezia,36,38,0.95,10,6,22
+Serie A,2022,17,Salernitana,31,38,0.82,7,10,21
+Serie A,2022,18,Cagliari,30,38,0.79,6,12,20
+Serie A,2022,19,Genoa,28,38,0.74,4,16,18
+Serie A,2022,20,Venezia,27,38,0.71,6,9,23
+Serie A,2021,1,Inter,91,38,2.39,28,7,3
+Serie A,2021,2,Milan,79,38,2.08,24,7,7
+Serie A,2021,3,Atalanta,78,38,2.05,23,9,6
+Serie A,2021,4,Juventus,78,38,2.05,23,9,6
+Serie A,2021,5,Napoli,77,38,2.03,24,5,9
+Serie A,2021,6,Lazio,68,38,1.79,21,5,12
+Serie A,2021,7,Roma,62,38,1.63,18,8,12
+Serie A,2021,8,Sassuolo,62,38,1.63,17,11,10
+Serie A,2021,9,Sampdoria,52,38,1.37,15,7,16
+Serie A,2021,10,Hellas Verona,45,38,1.18,11,12,15
+Serie A,2021,11,Genoa,42,38,1.11,10,12,16
+Serie A,2021,12,Bologna,41,38,1.08,10,11,17
+Serie A,2021,13,Fiorentina,40,38,1.05,9,13,16
+Serie A,2021,14,Udinese,40,38,1.05,10,10,18
+Serie A,2021,15,Spezia,39,38,1.03,9,12,17
+Serie A,2021,16,Cagliari,37,38,0.97,9,10,19
+Serie A,2021,17,Torino,37,38,0.97,7,16,15
+Serie A,2021,18,Benevento,33,38,0.87,7,12,19
+Serie A,2021,19,Crotone,23,38,0.61,6,5,27
+Serie A,2021,20,Parma,20,38,0.53,3,11,24
+Serie A,2020,1,Juventus,83,38,2.18,26,5,7
+Serie A,2020,2,Inter,82,38,2.16,24,10,4
+Serie A,2020,3,Atalanta,78,38,2.05,23,9,6
+Serie A,2020,4,Lazio,78,38,2.05,24,6,8
+Serie A,2020,5,Roma,70,38,1.84,21,7,10
+Serie A,2020,6,Milan,66,38,1.74,19,9,10
+Serie A,2020,7,Napoli,62,38,1.63,18,8,12
+Serie A,2020,8,Sassuolo,51,38,1.34,14,9,15
+Serie A,2020,9,Hellas Verona,49,38,1.29,12,13,13
+Serie A,2020,10,Fiorentina,49,38,1.29,12,13,13
+Serie A,2020,11,Parma,49,38,1.29,14,7,17
+Serie A,2020,12,Bologna,47,38,1.24,12,11,15
+Serie A,2020,13,Udinese,45,38,1.18,12,9,17
+Serie A,2020,14,Cagliari,45,38,1.18,11,12,15
+Serie A,2020,15,Sampdoria,42,38,1.11,12,6,20
+Serie A,2020,16,Torino,40,38,1.05,11,7,20
+Serie A,2020,17,Genoa,39,38,1.03,10,9,19
+Serie A,2020,18,Lecce,35,38,0.92,9,8,21
+Serie A,2020,19,Brescia,25,38,0.66,6,7,25
+Serie A,2020,20,SPAL,20,38,0.53,5,5,28
+Serie A,2019,1,Juventus,90,38,2.37,28,6,4
+Serie A,2019,2,Napoli,79,38,2.08,24,7,7
+Serie A,2019,3,Atalanta,69,38,1.82,20,9,9
+Serie A,2019,4,Inter,69,38,1.82,20,9,9
+Serie A,2019,5,Milan,68,38,1.79,19,11,8
+Serie A,2019,6,Roma,66,38,1.74,18,12,8
+Serie A,2019,7,Torino,63,38,1.66,16,15,7
+Serie A,2019,8,Lazio,59,38,1.55,17,8,13
+Serie A,2019,9,Sampdoria,53,38,1.39,15,8,15
+Serie A,2019,10,Bologna,44,38,1.16,11,11,16
+Serie A,2019,11,Sassuolo,43,38,1.13,9,16,13
+Serie A,2019,12,Udinese,43,38,1.13,11,10,17
+Serie A,2019,13,SPAL,42,38,1.11,11,9,18
+Serie A,2019,14,Parma,41,38,1.08,10,11,17
+Serie A,2019,15,Cagliari,41,38,1.08,10,11,17
+Serie A,2019,16,Fiorentina,41,38,1.08,8,17,13
+Serie A,2019,17,Genoa,38,38,1.0,8,14,16
+Serie A,2019,18,Empoli,38,38,1.0,10,8,20
+Serie A,2019,19,Frosinone,25,38,0.66,5,10,23
+Serie A,2019,20,Chievo,17,38,0.45,2,14,22
+Serie A,2018,1,Juventus,95,38,2.5,30,5,3
+Serie A,2018,2,Napoli,91,38,2.39,28,7,3
+Serie A,2018,3,Roma,77,38,2.03,23,8,7
+Serie A,2018,4,Inter,72,38,1.89,20,12,6
+Serie A,2018,5,Lazio,72,38,1.89,21,9,8
+Serie A,2018,6,Milan,64,38,1.68,18,10,10
+Serie A,2018,7,Atalanta,60,38,1.58,16,12,10
+Serie A,2018,8,Fiorentina,57,38,1.5,16,9,13
+Serie A,2018,9,Torino,54,38,1.42,13,15,10
+Serie A,2018,10,Sampdoria,54,38,1.42,16,6,16
+Serie A,2018,11,Sassuolo,43,38,1.13,11,10,17
+Serie A,2018,12,Genoa,41,38,1.08,11,8,19
+Serie A,2018,13,Chievo,40,38,1.05,10,10,18
+Serie A,2018,14,Udinese,40,38,1.05,12,4,22
+Serie A,2018,15,Bologna,39,38,1.03,11,6,21
+Serie A,2018,16,Cagliari,39,38,1.03,11,6,21
+Serie A,2018,17,SPAL,38,38,1.0,8,14,16
+Serie A,2018,18,Crotone,35,38,0.92,9,8,21
+Serie A,2018,19,Hellas Verona,25,38,0.66,7,4,27
+Serie A,2018,20,Benevento,21,38,0.55,6,3,29
+Serie A,2017,1,Juventus,91,38,2.39,29,4,5
+Serie A,2017,2,Roma,87,38,2.29,28,3,7
+Serie A,2017,3,Napoli,86,38,2.26,26,8,4
+Serie A,2017,4,Atalanta,72,38,1.89,21,9,8
+Serie A,2017,5,Lazio,70,38,1.84,21,7,10
+Serie A,2017,6,Milan,63,38,1.66,18,9,11
+Serie A,2017,7,Inter,62,38,1.63,19,5,14
+Serie A,2017,8,Fiorentina,60,38,1.58,16,12,10
+Serie A,2017,9,Torino,53,38,1.39,13,14,11
+Serie A,2017,10,Sampdoria,48,38,1.26,12,12,14
+Serie A,2017,11,Cagliari,47,38,1.24,14,5,19
+Serie A,2017,12,Sassuolo,46,38,1.21,13,7,18
+Serie A,2017,13,Udinese,45,38,1.18,12,9,17
+Serie A,2017,14,Chievo,43,38,1.13,12,7,19
+Serie A,2017,15,Bologna,41,38,1.08,11,8,19
+Serie A,2017,16,Genoa,36,38,0.95,9,9,20
+Serie A,2017,17,Crotone,34,38,0.89,9,7,22
+Serie A,2017,18,Empoli,32,38,0.84,8,8,22
+Serie A,2017,19,Palermo,26,38,0.68,6,8,24
+Serie A,2017,20,Pescara,18,38,0.47,3,9,26
+Serie A,2016,1,Juventus,91,38,2.39,29,4,5
+Serie A,2016,2,Napoli,82,38,2.16,25,7,6
+Serie A,2016,3,Roma,80,38,2.11,23,11,4
+Serie A,2016,4,Inter,67,38,1.76,20,7,11
+Serie A,2016,5,Fiorentina,64,38,1.68,18,10,10
+Serie A,2016,6,Sassuolo,61,38,1.61,16,13,9
+Serie A,2016,7,Milan,57,38,1.5,15,12,11
+Serie A,2016,8,Lazio,54,38,1.42,15,9,14
+Serie A,2016,9,Chievo,50,38,1.32,13,11,14
+Serie A,2016,10,Empoli,46,38,1.21,12,10,16
+Serie A,2016,11,Genoa,46,38,1.21,13,7,18
+Serie A,2016,12,Torino,45,38,1.18,12,9,17
+Serie A,2016,13,Atalanta,45,38,1.18,11,12,15
+Serie A,2016,14,Bologna,42,38,1.11,11,9,18
+Serie A,2016,15,Sampdoria,40,38,1.05,10,10,18
+Serie A,2016,16,Palermo,39,38,1.03,10,9,19
+Serie A,2016,17,Udinese,39,38,1.03,10,9,19
+Serie A,2016,18,Carpi,38,38,1.0,9,11,18
+Serie A,2016,19,Frosinone,31,38,0.82,8,7,23
+Serie A,2016,20,Hellas Verona,28,38,0.74,5,13,20
+Serie A,2015,1,Juventus,87,38,2.29,26,9,3
+Serie A,2015,2,Roma,70,38,1.84,19,13,6
+Serie A,2015,3,Lazio,69,38,1.82,21,6,11
+Serie A,2015,4,Fiorentina,64,38,1.68,18,10,10
+Serie A,2015,5,Napoli,63,38,1.66,18,9,11
+Serie A,2015,6,Genoa,59,38,1.55,16,11,11
+Serie A,2015,7,Sampdoria,56,38,1.47,13,17,8
+Serie A,2015,8,Inter,55,38,1.45,14,13,11
+Serie A,2015,9,Torino,54,38,1.42,14,12,12
+Serie A,2015,10,Milan,52,38,1.37,13,13,12
+Serie A,2015,11,Palermo,49,38,1.29,12,13,13
+Serie A,2015,12,Sassuolo,49,38,1.29,12,13,13
+Serie A,2015,13,Hellas Verona,46,38,1.21,11,13,14
+Serie A,2015,14,Chievo,43,38,1.13,10,13,15
+Serie A,2015,15,Empoli,42,38,1.11,8,18,12
+Serie A,2015,16,Udinese,41,38,1.08,10,11,17
+Serie A,2015,17,Atalanta,37,38,0.97,7,16,15
+Serie A,2015,18,Cagliari,34,38,0.89,8,10,20
+Serie A,2015,19,Cesena,24,38,0.63,4,12,22
+Serie A,2015,20,Parma,19,38,0.5,6,8,24
+Serie A,2014,1,Juventus,102,38,2.68,33,3,2
+Serie A,2014,2,Roma,85,38,2.24,26,7,5
+Serie A,2014,3,Napoli,78,38,2.05,23,9,6
+Serie A,2014,4,Fiorentina,65,38,1.71,19,8,11
+Serie A,2014,5,Inter,60,38,1.58,15,15,8
+Serie A,2014,6,Parma,58,38,1.53,15,13,10
+Serie A,2014,7,Torino,57,38,1.5,15,12,11
+Serie A,2014,8,Milan,57,38,1.5,16,9,13
+Serie A,2014,9,Lazio,56,38,1.47,15,11,12
+Serie A,2014,10,Hellas Verona,54,38,1.42,16,6,16
+Serie A,2014,11,Atalanta,50,38,1.32,15,5,18
+Serie A,2014,12,Sampdoria,45,38,1.18,12,9,17
+Serie A,2014,13,Udinese,44,38,1.16,12,8,18
+Serie A,2014,14,Genoa,44,38,1.16,11,11,16
+Serie A,2014,15,Cagliari,39,38,1.03,9,12,17
+Serie A,2014,16,Chievo,36,38,0.95,10,6,22
+Serie A,2014,17,Sassuolo,34,38,0.89,9,7,22
+Serie A,2014,18,Catania,32,38,0.84,8,8,22
+Serie A,2014,19,Bologna,29,38,0.76,5,14,19
+Serie A,2014,20,Livorno,25,38,0.66,6,7,25
+Serie A,2013,1,Juventus,87,38,2.29,27,6,5
+Serie A,2013,2,Napoli,78,38,2.05,23,9,6
+Serie A,2013,3,Milan,72,38,1.89,21,9,8
+Serie A,2013,4,Fiorentina,70,38,1.84,21,7,10
+Serie A,2013,5,Udinese,66,38,1.74,18,12,8
+Serie A,2013,6,Roma,62,38,1.63,18,8,12
+Serie A,2013,7,Lazio,61,38,1.61,18,7,13
+Serie A,2013,8,Catania,56,38,1.47,15,11,12
+Serie A,2013,9,Inter,54,38,1.42,16,6,16
+Serie A,2013,10,Parma,49,38,1.29,13,10,15
+Serie A,2013,11,Cagliari,47,38,1.24,12,11,15
+Serie A,2013,12,Chievo,45,38,1.18,12,9,17
+Serie A,2013,13,Bologna,44,38,1.16,11,11,16
+Serie A,2013,14,Sampdoria,42,38,1.11,11,10,17
+Serie A,2013,15,Atalanta,40,38,1.05,11,9,18
+Serie A,2013,16,Torino,39,38,1.03,8,16,14
+Serie A,2013,17,Genoa,38,38,1.0,8,14,16
+Serie A,2013,18,Palermo,32,38,0.84,6,14,18
+Serie A,2013,19,Siena,30,38,0.79,9,9,20
+Serie A,2013,20,Pescara,22,38,0.58,6,4,28
+Serie A,2012,1,Juventus,84,38,2.21,23,15,0
+Serie A,2012,2,Milan,80,38,2.11,24,8,6
+Serie A,2012,3,Udinese,64,38,1.68,18,10,10
+Serie A,2012,4,Lazio,62,38,1.63,18,8,12
+Serie A,2012,5,Napoli,61,38,1.61,16,13,9
+Serie A,2012,6,Inter,58,38,1.53,17,7,14
+Serie A,2012,7,Roma,56,38,1.47,16,8,14
+Serie A,2012,8,Parma,56,38,1.47,15,11,12
+Serie A,2012,9,Bologna,51,38,1.34,13,12,13
+Serie A,2012,10,Chievo,49,38,1.29,12,13,13
+Serie A,2012,11,Catania,48,38,1.26,11,15,12
+Serie A,2012,12,Atalanta,46,38,1.21,13,13,12
+Serie A,2012,13,Fiorentina,46,38,1.21,11,13,14
+Serie A,2012,14,Siena,44,38,1.16,11,11,16
+Serie A,2012,15,Cagliari,43,38,1.13,10,13,15
+Serie A,2012,16,Palermo,43,38,1.13,11,10,17
+Serie A,2012,17,Genoa,42,38,1.11,11,9,18
+Serie A,2012,18,Lecce,36,38,0.95,8,12,18
+Serie A,2012,19,Novara,32,38,0.84,7,11,20
+Serie A,2012,20,Cesena,22,38,0.58,4,10,24
+Serie A,2011,1,Milan,82,38,2.16,24,10,4
+Serie A,2011,2,Inter,76,38,2.0,23,7,8
+Serie A,2011,3,Napoli,70,38,1.84,21,7,10
+Serie A,2011,4,Udinese,66,38,1.74,20,6,12
+Serie A,2011,5,Lazio,66,38,1.74,20,6,12
+Serie A,2011,6,Roma,63,38,1.66,18,9,11
+Serie A,2011,7,Juventus,58,38,1.53,15,13,10
+Serie A,2011,8,Palermo,56,38,1.47,17,5,16
+Serie A,2011,9,Fiorentina,51,38,1.34,12,15,11
+Serie A,2011,10,Genoa,51,38,1.34,14,9,15
+Serie A,2011,11,Chievo,46,38,1.21,11,13,14
+Serie A,2011,12,Parma,46,38,1.21,11,13,14
+Serie A,2011,13,Catania,46,38,1.21,12,10,16
+Serie A,2011,14,Cagliari,45,38,1.18,12,9,17
+Serie A,2011,15,Cesena,43,38,1.13,11,10,17
+Serie A,2011,16,Bologna,42,38,1.11,11,12,15
+Serie A,2011,17,Lecce,41,38,1.08,11,8,19
+Serie A,2011,18,Sampdoria,36,38,0.95,8,12,18
+Serie A,2011,19,Brescia,32,38,0.84,7,11,20
+Serie A,2011,20,Bari,24,38,0.63,5,9,24
+Bundesliga,2025,1,Bayern Munich,75,31,2.42,23,6,2
+Bundesliga,2025,2,Leverkusen,67,31,2.16,19,10,2
+Bundesliga,2025,3,Eint Frankfurt,55,31,1.77,16,7,8
+Bundesliga,2025,4,Freiburg,51,31,1.65,15,6,10
+Bundesliga,2025,5,RB Leipzig,49,31,1.58,13,10,8
+Bundesliga,2025,6,Dortmund,48,31,1.55,14,6,11
+Bundesliga,2025,7,Mainz 05,47,31,1.52,13,8,10
+Bundesliga,2025,8,Werder Bremen,45,30,1.5,13,6,11
+Bundesliga,2025,9,Gladbach,44,31,1.42,13,5,13
+Bundesliga,2025,10,Augsburg,43,31,1.39,11,10,10
+Bundesliga,2025,11,Stuttgart,41,31,1.32,11,8,12
+Bundesliga,2025,12,Wolfsburg,39,31,1.26,10,9,12
+Bundesliga,2025,13,Union Berlin,35,30,1.17,9,8,13
+Bundesliga,2025,14,St. Pauli,30,30,1.0,8,6,16
+Bundesliga,2025,15,Hoffenheim,30,31,0.97,7,9,15
+Bundesliga,2025,16,Heidenheim,25,31,0.81,7,4,20
+Bundesliga,2025,17,Holstein Kiel,22,31,0.71,5,7,19
+Bundesliga,2025,18,Bochum,20,30,0.67,5,5,20
+Bundesliga,2024,1,Leverkusen,90,34,2.65,28,6,0
+Bundesliga,2024,2,Stuttgart,73,34,2.15,23,4,7
+Bundesliga,2024,3,Bayern Munich,72,34,2.12,23,3,8
+Bundesliga,2024,4,RB Leipzig,65,34,1.91,19,8,7
+Bundesliga,2024,5,Dortmund,63,34,1.85,18,9,7
+Bundesliga,2024,6,Eint Frankfurt,47,34,1.38,11,14,9
+Bundesliga,2024,7,Hoffenheim,46,34,1.35,13,7,14
+Bundesliga,2024,8,Heidenheim,42,34,1.24,10,12,12
+Bundesliga,2024,9,Werder Bremen,42,34,1.24,11,9,14
+Bundesliga,2024,10,Freiburg,42,34,1.24,11,9,14
+Bundesliga,2024,11,Augsburg,39,34,1.15,10,9,15
+Bundesliga,2024,12,Wolfsburg,37,34,1.09,10,7,17
+Bundesliga,2024,13,Mainz 05,35,34,1.03,7,14,13
+Bundesliga,2024,14,Gladbach,34,34,1.0,7,13,14
+Bundesliga,2024,15,Union Berlin,33,34,0.97,9,6,19
+Bundesliga,2024,16,Bochum,33,34,0.97,7,12,15
+Bundesliga,2024,17,Köln,27,34,0.79,5,12,17
+Bundesliga,2024,18,Darmstadt 98,17,34,0.5,3,8,23
+Bundesliga,2023,1,Bayern Munich,71,34,2.09,21,8,5
+Bundesliga,2023,2,Dortmund,71,34,2.09,22,5,7
+Bundesliga,2023,3,RB Leipzig,66,34,1.94,20,6,8
+Bundesliga,2023,4,Union Berlin,62,34,1.82,18,8,8
+Bundesliga,2023,5,Freiburg,59,34,1.74,17,8,9
+Bundesliga,2023,6,Leverkusen,50,34,1.47,14,8,12
+Bundesliga,2023,7,Eint Frankfurt,50,34,1.47,13,11,10
+Bundesliga,2023,8,Wolfsburg,49,34,1.44,13,10,11
+Bundesliga,2023,9,Mainz 05,46,34,1.35,12,10,12
+Bundesliga,2023,10,Gladbach,43,34,1.26,11,10,13
+Bundesliga,2023,11,Köln,42,34,1.24,10,12,12
+Bundesliga,2023,12,Hoffenheim,36,34,1.06,10,6,18
+Bundesliga,2023,13,Werder Bremen,36,34,1.06,10,6,18
+Bundesliga,2023,14,Bochum,35,34,1.03,10,5,19
+Bundesliga,2023,15,Augsburg,34,34,1.0,9,7,18
+Bundesliga,2023,16,Stuttgart,33,34,0.97,7,12,15
+Bundesliga,2023,17,Schalke 04,31,34,0.91,7,10,17
+Bundesliga,2023,18,Hertha BSC,29,34,0.85,7,8,19
+Bundesliga,2022,1,Bayern Munich,77,34,2.26,24,5,5
+Bundesliga,2022,2,Dortmund,69,34,2.03,22,3,9
+Bundesliga,2022,3,Leverkusen,64,34,1.88,19,7,8
+Bundesliga,2022,4,RB Leipzig,58,34,1.71,17,7,10
+Bundesliga,2022,5,Union Berlin,57,34,1.68,16,9,9
+Bundesliga,2022,6,Freiburg,55,34,1.62,15,10,9
+Bundesliga,2022,7,Köln,52,34,1.53,14,10,10
+Bundesliga,2022,8,Mainz 05,46,34,1.35,13,7,14
+Bundesliga,2022,9,Hoffenheim,46,34,1.35,13,7,14
+Bundesliga,2022,10,Gladbach,45,34,1.32,12,9,13
+Bundesliga,2022,11,Eint Frankfurt,42,34,1.24,10,12,12
+Bundesliga,2022,12,Wolfsburg,42,34,1.24,12,6,16
+Bundesliga,2022,13,Bochum,42,34,1.24,12,6,16
+Bundesliga,2022,14,Augsburg,38,34,1.12,10,8,16
+Bundesliga,2022,15,Stuttgart,33,34,0.97,7,12,15
+Bundesliga,2022,16,Hertha BSC,33,34,0.97,9,6,19
+Bundesliga,2022,17,Arminia,28,34,0.82,5,13,16
+Bundesliga,2022,18,Greuther Fürth,18,34,0.53,3,9,22
+Bundesliga,2021,1,Bayern Munich,78,34,2.29,24,6,4
+Bundesliga,2021,2,RB Leipzig,65,34,1.91,19,8,7
+Bundesliga,2021,3,Dortmund,64,34,1.88,20,4,10
+Bundesliga,2021,4,Wolfsburg,61,34,1.79,17,10,7
+Bundesliga,2021,5,Eint Frankfurt,60,34,1.76,16,12,6
+Bundesliga,2021,6,Leverkusen,52,34,1.53,14,10,10
+Bundesliga,2021,7,Union Berlin,50,34,1.47,12,14,8
+Bundesliga,2021,8,Gladbach,49,34,1.44,13,10,11
+Bundesliga,2021,9,Stuttgart,45,34,1.32,12,9,13
+Bundesliga,2021,10,Freiburg,45,34,1.32,12,9,13
+Bundesliga,2021,11,Hoffenheim,43,34,1.26,11,10,13
+Bundesliga,2021,12,Mainz 05,39,34,1.15,10,9,15
+Bundesliga,2021,13,Augsburg,36,34,1.06,10,6,18
+Bundesliga,2021,14,Hertha BSC,35,34,1.03,8,11,15
+Bundesliga,2021,15,Arminia,35,34,1.03,9,8,17
+Bundesliga,2021,16,Köln,33,34,0.97,8,9,17
+Bundesliga,2021,17,Werder Bremen,31,34,0.91,7,10,17
+Bundesliga,2021,18,Schalke 04,16,34,0.47,3,7,24
+Bundesliga,2020,1,Bayern Munich,82,34,2.41,26,4,4
+Bundesliga,2020,2,Dortmund,69,34,2.03,21,6,7
+Bundesliga,2020,3,RB Leipzig,66,34,1.94,18,12,4
+Bundesliga,2020,4,Gladbach,65,34,1.91,20,5,9
+Bundesliga,2020,5,Leverkusen,63,34,1.85,19,6,9
+Bundesliga,2020,6,Hoffenheim,52,34,1.53,15,7,12
+Bundesliga,2020,7,Wolfsburg,49,34,1.44,13,10,11
+Bundesliga,2020,8,Freiburg,48,34,1.41,13,9,12
+Bundesliga,2020,9,Eint Frankfurt,45,34,1.32,13,6,15
+Bundesliga,2020,10,Hertha BSC,41,34,1.21,11,8,15
+Bundesliga,2020,11,Union Berlin,41,34,1.21,12,5,17
+Bundesliga,2020,12,Schalke 04,39,34,1.15,9,12,13
+Bundesliga,2020,13,Mainz 05,37,34,1.09,11,4,19
+Bundesliga,2020,14,Köln,36,34,1.06,10,6,18
+Bundesliga,2020,15,Augsburg,36,34,1.06,9,9,16
+Bundesliga,2020,16,Werder Bremen,31,34,0.91,8,7,19
+Bundesliga,2020,17,Düsseldorf,30,34,0.88,6,12,16
+Bundesliga,2020,18,Paderborn 07,20,34,0.59,4,8,22
+Bundesliga,2019,1,Bayern Munich,78,34,2.29,24,6,4
+Bundesliga,2019,2,Dortmund,76,34,2.24,23,7,4
+Bundesliga,2019,3,RB Leipzig,66,34,1.94,19,9,6
+Bundesliga,2019,4,Leverkusen,58,34,1.71,18,4,12
+Bundesliga,2019,5,Gladbach,55,34,1.62,16,7,11
+Bundesliga,2019,6,Wolfsburg,55,34,1.62,16,7,11
+Bundesliga,2019,7,Eint Frankfurt,54,34,1.59,15,9,10
+Bundesliga,2019,8,Werder Bremen,53,34,1.56,14,11,9
+Bundesliga,2019,9,Hoffenheim,51,34,1.5,13,12,9
+Bundesliga,2019,10,Düsseldorf,44,34,1.29,13,5,16
+Bundesliga,2019,11,Hertha BSC,43,34,1.26,11,10,13
+Bundesliga,2019,12,Mainz 05,43,34,1.26,12,7,15
+Bundesliga,2019,13,Freiburg,36,34,1.06,8,12,14
+Bundesliga,2019,14,Schalke 04,33,34,0.97,8,9,17
+Bundesliga,2019,15,Augsburg,32,34,0.94,8,8,18
+Bundesliga,2019,16,Stuttgart,28,34,0.82,7,7,20
+Bundesliga,2019,17,Hannover 96,21,34,0.62,5,6,23
+Bundesliga,2019,18,Nürnberg,19,34,0.56,3,10,21
+Bundesliga,2018,1,Bayern Munich,84,34,2.47,27,3,4
+Bundesliga,2018,2,Schalke 04,63,34,1.85,18,9,7
+Bundesliga,2018,3,Hoffenheim,55,34,1.62,15,10,9
+Bundesliga,2018,4,Dortmund,55,34,1.62,15,10,9
+Bundesliga,2018,5,Leverkusen,55,34,1.62,15,10,9
+Bundesliga,2018,6,RB Leipzig,53,34,1.56,15,8,11
+Bundesliga,2018,7,Stuttgart,51,34,1.5,15,6,13
+Bundesliga,2018,8,Eint Frankfurt,49,34,1.44,14,7,13
+Bundesliga,2018,9,Gladbach,47,34,1.38,13,8,13
+Bundesliga,2018,10,Hertha BSC,43,34,1.26,10,13,11
+Bundesliga,2018,11,Werder Bremen,42,34,1.24,10,12,12
+Bundesliga,2018,12,Augsburg,41,34,1.21,10,11,13
+Bundesliga,2018,13,Hannover 96,39,34,1.15,10,9,15
+Bundesliga,2018,14,Mainz 05,36,34,1.06,9,9,16
+Bundesliga,2018,15,Freiburg,36,34,1.06,8,12,14
+Bundesliga,2018,16,Wolfsburg,33,34,0.97,6,15,13
+Bundesliga,2018,17,Hamburger SV,31,34,0.91,8,7,19
+Bundesliga,2018,18,Köln,22,34,0.65,5,7,22
+Bundesliga,2017,1,Bayern Munich,82,34,2.41,25,7,2
+Bundesliga,2017,2,RB Leipzig,67,34,1.97,20,7,7
+Bundesliga,2017,3,Dortmund,64,34,1.88,18,10,6
+Bundesliga,2017,4,Hoffenheim,62,34,1.82,16,14,4
+Bundesliga,2017,5,Köln,49,34,1.44,12,13,9
+Bundesliga,2017,6,Hertha BSC,49,34,1.44,15,4,15
+Bundesliga,2017,7,Freiburg,48,34,1.41,14,6,14
+Bundesliga,2017,8,Werder Bremen,45,34,1.32,13,6,15
+Bundesliga,2017,9,Gladbach,45,34,1.32,12,9,13
+Bundesliga,2017,10,Schalke 04,43,34,1.26,11,10,13
+Bundesliga,2017,11,Eint Frankfurt,42,34,1.24,11,9,14
+Bundesliga,2017,12,Leverkusen,41,34,1.21,11,8,15
+Bundesliga,2017,13,Augsburg,38,34,1.12,9,11,14
+Bundesliga,2017,14,Hamburger SV,38,34,1.12,10,8,16
+Bundesliga,2017,15,Mainz 05,37,34,1.09,10,7,17
+Bundesliga,2017,16,Wolfsburg,37,34,1.09,10,7,17
+Bundesliga,2017,17,Ingolstadt 04,32,34,0.94,8,8,18
+Bundesliga,2017,18,Darmstadt 98,25,34,0.74,7,4,23
+Bundesliga,2016,1,Bayern Munich,88,34,2.59,28,4,2
+Bundesliga,2016,2,Dortmund,78,34,2.29,24,6,4
+Bundesliga,2016,3,Leverkusen,60,34,1.76,18,6,10
+Bundesliga,2016,4,Gladbach,55,34,1.62,17,4,13
+Bundesliga,2016,5,Schalke 04,52,34,1.53,15,7,12
+Bundesliga,2016,6,Mainz 05,50,34,1.47,14,8,12
+Bundesliga,2016,7,Hertha BSC,50,34,1.47,14,8,12
+Bundesliga,2016,8,Wolfsburg,45,34,1.32,12,9,13
+Bundesliga,2016,9,Köln,43,34,1.26,10,13,11
+Bundesliga,2016,10,Hamburger SV,41,34,1.21,11,8,15
+Bundesliga,2016,11,Ingolstadt 04,40,34,1.18,10,10,14
+Bundesliga,2016,12,Augsburg,38,34,1.12,9,11,14
+Bundesliga,2016,13,Werder Bremen,38,34,1.12,10,8,16
+Bundesliga,2016,14,Darmstadt 98,38,34,1.12,9,11,14
+Bundesliga,2016,15,Hoffenheim,37,34,1.09,9,10,15
+Bundesliga,2016,16,Eint Frankfurt,36,34,1.06,9,9,16
+Bundesliga,2016,17,Stuttgart,33,34,0.97,9,6,19
+Bundesliga,2016,18,Hannover 96,25,34,0.74,7,4,23
+Bundesliga,2015,1,Bayern Munich,79,34,2.32,25,4,5
+Bundesliga,2015,2,Wolfsburg,69,34,2.03,20,9,5
+Bundesliga,2015,3,Gladbach,66,34,1.94,19,9,6
+Bundesliga,2015,4,Leverkusen,61,34,1.79,17,10,7
+Bundesliga,2015,5,Augsburg,49,34,1.44,15,4,15
+Bundesliga,2015,6,Schalke 04,48,34,1.41,13,9,12
+Bundesliga,2015,7,Dortmund,46,34,1.35,13,7,14
+Bundesliga,2015,8,Hoffenheim,44,34,1.29,12,8,14
+Bundesliga,2015,9,Eint Frankfurt,43,34,1.26,11,10,13
+Bundesliga,2015,10,Werder Bremen,43,34,1.26,11,10,13
+Bundesliga,2015,11,Mainz 05,40,34,1.18,9,13,12
+Bundesliga,2015,12,Köln,40,34,1.18,9,13,12
+Bundesliga,2015,13,Hannover 96,37,34,1.09,9,10,15
+Bundesliga,2015,14,Stuttgart,36,34,1.06,9,9,16
+Bundesliga,2015,15,Hertha BSC,35,34,1.03,9,8,17
+Bundesliga,2015,16,Hamburger SV,35,34,1.03,9,8,17
+Bundesliga,2015,17,Freiburg,34,34,1.0,7,13,14
+Bundesliga,2015,18,Paderborn 07,31,34,0.91,7,10,17
+Bundesliga,2014,1,Bayern Munich,90,34,2.65,29,3,2
+Bundesliga,2014,2,Dortmund,71,34,2.09,22,5,7
+Bundesliga,2014,3,Schalke 04,64,34,1.88,19,7,8
+Bundesliga,2014,4,Leverkusen,61,34,1.79,19,4,11
+Bundesliga,2014,5,Wolfsburg,60,34,1.76,18,6,10
+Bundesliga,2014,6,Gladbach,55,34,1.62,16,7,11
+Bundesliga,2014,7,Mainz 05,53,34,1.56,16,5,13
+Bundesliga,2014,8,Augsburg,52,34,1.53,15,7,12
+Bundesliga,2014,9,Hoffenheim,44,34,1.29,11,11,12
+Bundesliga,2014,10,Hannover 96,42,34,1.24,12,6,16
+Bundesliga,2014,11,Hertha BSC,41,34,1.21,11,8,15
+Bundesliga,2014,12,Werder Bremen,39,34,1.15,10,9,15
+Bundesliga,2014,13,Eint Frankfurt,36,34,1.06,9,9,16
+Bundesliga,2014,14,Freiburg,36,34,1.06,9,9,16
+Bundesliga,2014,15,Stuttgart,32,34,0.94,8,8,18
+Bundesliga,2014,16,Hamburger SV,27,34,0.79,7,6,21
+Bundesliga,2014,17,Nürnberg,26,34,0.76,5,11,18
+Bundesliga,2014,18,BTSV,25,34,0.74,6,7,21
+Bundesliga,2013,1,Bayern Munich,91,34,2.68,29,4,1
+Bundesliga,2013,2,Dortmund,66,34,1.94,19,9,6
+Bundesliga,2013,3,Leverkusen,65,34,1.91,19,8,7
+Bundesliga,2013,4,Schalke 04,55,34,1.62,16,7,11
+Bundesliga,2013,5,Freiburg,51,34,1.5,14,9,11
+Bundesliga,2013,6,Eint Frankfurt,51,34,1.5,14,9,11
+Bundesliga,2013,7,Hamburger SV,48,34,1.41,14,6,14
+Bundesliga,2013,8,Gladbach,47,34,1.38,12,11,11
+Bundesliga,2013,9,Hannover 96,45,34,1.32,13,6,15
+Bundesliga,2013,10,Nürnberg,44,34,1.29,11,11,12
+Bundesliga,2013,11,Wolfsburg,43,34,1.26,10,13,11
+Bundesliga,2013,12,Stuttgart,43,34,1.26,12,7,15
+Bundesliga,2013,13,Mainz 05,42,34,1.24,10,12,12
+Bundesliga,2013,14,Werder Bremen,34,34,1.0,8,10,16
+Bundesliga,2013,15,Augsburg,33,34,0.97,8,9,17
+Bundesliga,2013,16,Hoffenheim,31,34,0.91,8,7,19
+Bundesliga,2013,17,Düsseldorf,30,34,0.88,7,9,18
+Bundesliga,2013,18,Greuther Fürth,21,34,0.62,4,9,21
+Bundesliga,2012,1,Dortmund,81,34,2.38,25,6,3
+Bundesliga,2012,2,Bayern Munich,73,34,2.15,23,4,7
+Bundesliga,2012,3,Schalke 04,64,34,1.88,20,4,10
+Bundesliga,2012,4,Gladbach,60,34,1.76,17,9,8
+Bundesliga,2012,5,Leverkusen,54,34,1.59,15,9,10
+Bundesliga,2012,6,Stuttgart,53,34,1.56,15,8,11
+Bundesliga,2012,7,Hannover 96,48,34,1.41,12,12,10
+Bundesliga,2012,8,Wolfsburg,44,34,1.29,13,5,16
+Bundesliga,2012,9,Werder Bremen,42,34,1.24,11,9,14
+Bundesliga,2012,10,Nürnberg,42,34,1.24,12,6,16
+Bundesliga,2012,11,Hoffenheim,41,34,1.21,10,11,13
+Bundesliga,2012,12,Freiburg,40,34,1.18,10,10,14
+Bundesliga,2012,13,Mainz 05,39,34,1.15,9,12,13
+Bundesliga,2012,14,Augsburg,38,34,1.12,8,14,12
+Bundesliga,2012,15,Hamburger SV,36,34,1.06,8,12,14
+Bundesliga,2012,16,Hertha BSC,31,34,0.91,7,10,17
+Bundesliga,2012,17,Köln,30,34,0.88,8,6,20
+Bundesliga,2012,18,Kaiserslautern,23,34,0.68,4,11,19
+Bundesliga,2011,1,Dortmund,75,34,2.21,23,6,5
+Bundesliga,2011,2,Leverkusen,68,34,2.0,20,8,6
+Bundesliga,2011,3,Bayern Munich,65,34,1.91,19,8,7
+Bundesliga,2011,4,Hannover 96,60,34,1.76,19,3,12
+Bundesliga,2011,5,Mainz 05,58,34,1.71,18,4,12
+Bundesliga,2011,6,Nürnberg,47,34,1.38,13,8,13
+Bundesliga,2011,7,Kaiserslautern,46,34,1.35,13,7,14
+Bundesliga,2011,8,Hamburger SV,45,34,1.32,12,9,13
+Bundesliga,2011,9,Freiburg,44,34,1.29,13,5,16
+Bundesliga,2011,10,Köln,44,34,1.29,13,5,16
+Bundesliga,2011,11,Hoffenheim,43,34,1.26,11,10,13
+Bundesliga,2011,12,Stuttgart,42,34,1.24,12,6,16
+Bundesliga,2011,13,Werder Bremen,41,34,1.21,10,11,13
+Bundesliga,2011,14,Schalke 04,40,34,1.18,11,7,16
+Bundesliga,2011,15,Wolfsburg,38,34,1.12,9,11,14
+Bundesliga,2011,16,Gladbach,36,34,1.06,10,6,18
+Bundesliga,2011,17,Eint Frankfurt,34,34,1.0,9,7,18
+Bundesliga,2011,18,St. Pauli,29,34,0.85,8,5,21
+Ligue 1,2025,1,Paris S-G,78,31,2.52,24,6,1
+Ligue 1,2025,2,Monaco,55,31,1.77,16,7,8
+Ligue 1,2025,3,Marseille,55,30,1.83,17,4,9
+Ligue 1,2025,4,Lyon,54,31,1.74,16,6,9
+Ligue 1,2025,5,Nice,54,31,1.74,15,9,7
+Ligue 1,2025,6,Strasbourg,54,31,1.74,15,9,7
+Ligue 1,2025,7,Lille,53,30,1.77,15,8,7
+Ligue 1,2025,8,Lens,45,30,1.5,13,6,11
+Ligue 1,2025,9,Brest,44,30,1.47,13,5,12
+Ligue 1,2025,10,Rennes,38,31,1.23,12,2,17
+Ligue 1,2025,11,Auxerre,38,30,1.27,10,8,12
+Ligue 1,2025,12,Toulouse,34,30,1.13,9,7,14
+Ligue 1,2025,13,Reims,32,30,1.07,8,8,14
+Ligue 1,2025,14,Nantes,31,30,1.03,7,10,13
+Ligue 1,2025,15,Angers,30,30,1.0,8,6,16
+Ligue 1,2025,16,Le Havre,28,31,0.9,8,4,19
+Ligue 1,2025,17,Saint-Étienne,24,30,0.8,6,6,18
+Ligue 1,2025,18,Montpellier,15,29,0.52,4,3,22
+Ligue 1,2024,1,Paris S-G,76,34,2.24,22,10,2
+Ligue 1,2024,2,Monaco,67,34,1.97,20,7,7
+Ligue 1,2024,3,Brest,61,34,1.79,17,10,7
+Ligue 1,2024,4,Lille,59,34,1.74,16,11,7
+Ligue 1,2024,5,Nice,55,34,1.62,15,10,9
+Ligue 1,2024,6,Lyon,53,34,1.56,16,5,13
+Ligue 1,2024,7,Lens,51,34,1.5,14,9,11
+Ligue 1,2024,8,Marseille,50,34,1.47,13,11,10
+Ligue 1,2024,9,Reims,47,34,1.38,13,8,13
+Ligue 1,2024,10,Rennes,46,34,1.35,12,10,12
+Ligue 1,2024,11,Toulouse,43,34,1.26,11,10,13
+Ligue 1,2024,12,Montpellier,41,34,1.21,10,12,12
+Ligue 1,2024,13,Strasbourg,39,34,1.15,10,9,15
+Ligue 1,2024,14,Nantes,33,34,0.97,9,6,19
+Ligue 1,2024,15,Le Havre,32,34,0.94,7,11,16
+Ligue 1,2024,16,Metz,29,34,0.85,8,5,21
+Ligue 1,2024,17,Lorient,29,34,0.85,7,8,19
+Ligue 1,2024,18,Clermont Foot,25,34,0.74,5,10,19
+Ligue 1,2023,1,Paris S-G,85,38,2.24,27,4,7
+Ligue 1,2023,2,Lens,84,38,2.21,25,9,4
+Ligue 1,2023,3,Marseille,73,38,1.92,22,7,9
+Ligue 1,2023,4,Rennes,68,38,1.79,21,5,12
+Ligue 1,2023,5,Lille,67,38,1.76,19,10,9
+Ligue 1,2023,6,Monaco,65,38,1.71,19,8,11
+Ligue 1,2023,7,Lyon,62,38,1.63,18,8,12
+Ligue 1,2023,8,Clermont Foot,59,38,1.55,17,8,13
+Ligue 1,2023,9,Nice,58,38,1.53,15,13,10
+Ligue 1,2023,10,Lorient,55,38,1.45,15,10,13
+Ligue 1,2023,11,Reims,51,38,1.34,12,15,11
+Ligue 1,2023,12,Montpellier,50,38,1.32,15,5,18
+Ligue 1,2023,13,Toulouse,48,38,1.26,13,9,16
+Ligue 1,2023,14,Brest,44,38,1.16,11,11,16
+Ligue 1,2023,15,Strasbourg,40,38,1.05,9,13,16
+Ligue 1,2023,16,Nantes,36,38,0.95,7,15,16
+Ligue 1,2023,17,Auxerre,35,38,0.92,8,11,19
+Ligue 1,2023,18,Ajaccio,26,38,0.68,7,5,26
+Ligue 1,2023,19,Troyes,24,38,0.63,4,12,22
+Ligue 1,2023,20,Angers,18,38,0.47,4,6,28
+Ligue 1,2022,1,Paris S-G,86,38,2.26,26,8,4
+Ligue 1,2022,2,Marseille,71,38,1.87,21,8,9
+Ligue 1,2022,3,Monaco,69,38,1.82,20,9,9
+Ligue 1,2022,4,Rennes,66,38,1.74,20,6,12
+Ligue 1,2022,5,Nice,66,38,1.74,20,7,11
+Ligue 1,2022,6,Strasbourg,63,38,1.66,17,12,9
+Ligue 1,2022,7,Lens,62,38,1.63,17,11,10
+Ligue 1,2022,8,Lyon,61,38,1.61,17,11,10
+Ligue 1,2022,9,Nantes,55,38,1.45,15,10,13
+Ligue 1,2022,10,Lille,55,38,1.45,14,13,11
+Ligue 1,2022,11,Brest,48,38,1.26,13,9,16
+Ligue 1,2022,12,Reims,46,38,1.21,11,13,14
+Ligue 1,2022,13,Montpellier,43,38,1.13,12,7,19
+Ligue 1,2022,14,Angers,41,38,1.08,10,11,17
+Ligue 1,2022,15,Troyes,38,38,1.0,9,11,18
+Ligue 1,2022,16,Lorient,36,38,0.95,8,12,18
+Ligue 1,2022,17,Clermont Foot,36,38,0.95,9,9,20
+Ligue 1,2022,18,Saint-Étienne,32,38,0.84,7,11,20
+Ligue 1,2022,19,Metz,31,38,0.82,6,13,19
+Ligue 1,2022,20,Bordeaux,31,38,0.82,6,13,19
+Ligue 1,2021,1,Lille,83,38,2.18,24,11,3
+Ligue 1,2021,2,Paris S-G,82,38,2.16,26,4,8
+Ligue 1,2021,3,Monaco,78,38,2.05,24,6,8
+Ligue 1,2021,4,Lyon,76,38,2.0,22,10,6
+Ligue 1,2021,5,Marseille,60,38,1.58,16,12,10
+Ligue 1,2021,6,Rennes,58,38,1.53,16,10,12
+Ligue 1,2021,7,Lens,57,38,1.5,15,12,11
+Ligue 1,2021,8,Montpellier,54,38,1.42,14,12,12
+Ligue 1,2021,9,Nice,52,38,1.37,15,7,16
+Ligue 1,2021,10,Metz,47,38,1.24,12,11,15
+Ligue 1,2021,11,Saint-Étienne,46,38,1.21,12,10,16
+Ligue 1,2021,12,Bordeaux,45,38,1.18,13,6,19
+Ligue 1,2021,13,Angers,44,38,1.16,12,8,18
+Ligue 1,2021,14,Reims,42,38,1.11,9,15,14
+Ligue 1,2021,15,Strasbourg,42,38,1.11,11,9,18
+Ligue 1,2021,16,Lorient,42,38,1.11,11,9,18
+Ligue 1,2021,17,Brest,41,38,1.08,11,8,19
+Ligue 1,2021,18,Nantes,40,38,1.05,9,13,16
+Ligue 1,2021,19,Nîmes,35,38,0.92,9,8,21
+Ligue 1,2021,20,Dijon,21,38,0.55,4,9,25
+Ligue 1,2020,1,Paris S-G,68,27,2.52,22,2,3
+Ligue 1,2020,2,Marseille,56,28,2.0,16,8,4
+Ligue 1,2020,3,Rennes,50,28,1.79,15,5,8
+Ligue 1,2020,4,Lille,49,28,1.75,15,4,9
+Ligue 1,2020,5,Nice,41,28,1.46,11,8,9
+Ligue 1,2020,6,Reims,41,28,1.46,10,11,7
+Ligue 1,2020,7,Lyon,40,28,1.43,11,7,10
+Ligue 1,2020,8,Montpellier,40,28,1.43,11,7,10
+Ligue 1,2020,9,Monaco,40,28,1.43,11,7,10
+Ligue 1,2020,10,Strasbourg,38,27,1.41,11,5,11
+Ligue 1,2020,11,Angers,39,28,1.39,11,6,11
+Ligue 1,2020,12,Bordeaux,37,28,1.32,9,10,9
+Ligue 1,2020,13,Nantes,37,28,1.32,11,4,13
+Ligue 1,2020,14,Brest,34,28,1.21,8,10,10
+Ligue 1,2020,15,Metz,34,28,1.21,8,10,10
+Ligue 1,2020,16,Dijon,30,28,1.07,7,9,12
+Ligue 1,2020,17,Saint-Étienne,30,28,1.07,8,6,14
+Ligue 1,2020,18,Nîmes,27,28,0.96,7,6,15
+Ligue 1,2020,19,Amiens,23,28,0.82,4,11,13
+Ligue 1,2020,20,Toulouse,13,28,0.46,3,4,21
+Ligue 1,2019,1,Paris S-G,91,38,2.39,29,4,5
+Ligue 1,2019,2,Lille,75,38,1.97,22,9,7
+Ligue 1,2019,3,Lyon,72,38,1.89,21,9,8
+Ligue 1,2019,4,Saint-Étienne,66,38,1.74,19,9,10
+Ligue 1,2019,5,Marseille,61,38,1.61,18,7,13
+Ligue 1,2019,6,Montpellier,59,38,1.55,15,14,9
+Ligue 1,2019,7,Nice,56,38,1.47,15,11,12
+Ligue 1,2019,8,Reims,55,38,1.45,13,16,9
+Ligue 1,2019,9,Nîmes,53,38,1.39,15,8,15
+Ligue 1,2019,10,Rennes,52,38,1.37,13,13,12
+Ligue 1,2019,11,Strasbourg,49,38,1.29,11,16,11
+Ligue 1,2019,12,Nantes,48,38,1.26,13,9,16
+Ligue 1,2019,13,Angers,46,38,1.21,10,16,12
+Ligue 1,2019,14,Bordeaux,41,38,1.08,10,11,17
+Ligue 1,2019,15,Amiens,38,38,1.0,9,11,18
+Ligue 1,2019,16,Toulouse,38,38,1.0,8,14,16
+Ligue 1,2019,17,Monaco,36,38,0.95,8,12,18
+Ligue 1,2019,18,Dijon,34,38,0.89,9,7,22
+Ligue 1,2019,19,Caen,33,38,0.87,7,12,19
+Ligue 1,2019,20,Guingamp,27,38,0.71,5,12,21
+Ligue 1,2018,1,Paris S-G,93,38,2.45,29,6,3
+Ligue 1,2018,2,Monaco,80,38,2.11,24,8,6
+Ligue 1,2018,3,Lyon,78,38,2.05,23,9,6
+Ligue 1,2018,4,Marseille,77,38,2.03,22,11,5
+Ligue 1,2018,5,Rennes,58,38,1.53,16,10,12
+Ligue 1,2018,6,Bordeaux,55,38,1.45,16,7,15
+Ligue 1,2018,7,Saint-Étienne,55,38,1.45,15,10,13
+Ligue 1,2018,8,Nice,54,38,1.42,15,9,14
+Ligue 1,2018,9,Nantes,52,38,1.37,14,10,14
+Ligue 1,2018,10,Montpellier,51,38,1.34,11,18,9
+Ligue 1,2018,11,Dijon,48,38,1.26,13,9,16
+Ligue 1,2018,12,Guingamp,47,38,1.24,12,11,15
+Ligue 1,2018,13,Amiens,45,38,1.18,12,9,17
+Ligue 1,2018,14,Angers,41,38,1.08,9,14,15
+Ligue 1,2018,15,Strasbourg,38,38,1.0,9,11,18
+Ligue 1,2018,16,Caen,38,38,1.0,10,8,20
+Ligue 1,2018,17,Lille,38,38,1.0,10,8,20
+Ligue 1,2018,18,Toulouse,37,38,0.97,9,10,19
+Ligue 1,2018,19,Troyes,33,38,0.87,9,6,23
+Ligue 1,2018,20,Metz,26,38,0.68,6,8,24
+Ligue 1,2017,1,Monaco,95,38,2.5,30,5,3
+Ligue 1,2017,2,Paris S-G,87,38,2.29,27,6,5
+Ligue 1,2017,3,Nice,78,38,2.05,22,12,4
+Ligue 1,2017,4,Lyon,67,38,1.76,21,4,13
+Ligue 1,2017,5,Marseille,62,38,1.63,17,11,10
+Ligue 1,2017,6,Bordeaux,59,38,1.55,15,14,9
+Ligue 1,2017,7,Nantes,51,38,1.34,14,9,15
+Ligue 1,2017,8,Saint-Étienne,50,38,1.32,12,14,12
+Ligue 1,2017,9,Rennes,50,38,1.32,12,14,12
+Ligue 1,2017,10,Guingamp,50,38,1.32,14,8,16
+Ligue 1,2017,11,Lille,46,38,1.21,13,7,18
+Ligue 1,2017,12,Angers,46,38,1.21,13,7,18
+Ligue 1,2017,13,Toulouse,44,38,1.16,10,14,14
+Ligue 1,2017,14,Metz,43,38,1.13,11,10,17
+Ligue 1,2017,15,Montpellier,39,38,1.03,10,9,19
+Ligue 1,2017,16,Dijon,37,38,0.97,8,13,17
+Ligue 1,2017,17,Caen,37,38,0.97,10,7,21
+Ligue 1,2017,18,Lorient,36,38,0.95,10,6,22
+Ligue 1,2017,19,Nancy,35,38,0.92,9,8,21
+Ligue 1,2017,20,Bastia,34,38,0.89,8,10,20
+Ligue 1,2016,1,Paris S-G,96,38,2.53,30,6,2
+Ligue 1,2016,2,Lyon,65,38,1.71,19,8,11
+Ligue 1,2016,3,Monaco,65,38,1.71,17,14,7
+Ligue 1,2016,4,Nice,63,38,1.66,18,9,11
+Ligue 1,2016,5,Lille,60,38,1.58,15,15,8
+Ligue 1,2016,6,Saint-Étienne,58,38,1.53,17,7,14
+Ligue 1,2016,7,Caen,54,38,1.42,16,6,16
+Ligue 1,2016,8,Rennes,52,38,1.37,13,13,12
+Ligue 1,2016,9,Angers,50,38,1.32,13,11,14
+Ligue 1,2016,10,Bastia,50,38,1.32,14,8,16
+Ligue 1,2016,11,Bordeaux,50,38,1.32,12,14,12
+Ligue 1,2016,12,Montpellier,49,38,1.29,14,7,17
+Ligue 1,2016,13,Marseille,48,38,1.26,10,18,10
+Ligue 1,2016,14,Nantes,48,38,1.26,12,12,14
+Ligue 1,2016,15,Lorient,46,38,1.21,11,13,14
+Ligue 1,2016,16,Guingamp,44,38,1.16,11,11,16
+Ligue 1,2016,17,Toulouse,40,38,1.05,9,13,16
+Ligue 1,2016,18,Reims,39,38,1.03,10,9,19
+Ligue 1,2016,19,Gazélec Ajaccio,37,38,0.97,8,13,17
+Ligue 1,2016,20,Troyes,18,38,0.47,3,9,26
+Ligue 1,2015,1,Paris S-G,83,38,2.18,24,11,3
+Ligue 1,2015,2,Lyon,75,38,1.97,22,9,7
+Ligue 1,2015,3,Monaco,71,38,1.87,20,11,7
+Ligue 1,2015,4,Marseille,69,38,1.82,21,6,11
+Ligue 1,2015,5,Saint-Étienne,69,38,1.82,19,12,7
+Ligue 1,2015,6,Bordeaux,63,38,1.66,17,12,9
+Ligue 1,2015,7,Montpellier,56,38,1.47,16,8,14
+Ligue 1,2015,8,Lille,56,38,1.47,16,8,14
+Ligue 1,2015,9,Rennes,50,38,1.32,13,11,14
+Ligue 1,2015,10,Guingamp,49,38,1.29,15,4,19
+Ligue 1,2015,11,Nice,48,38,1.26,13,9,16
+Ligue 1,2015,12,Bastia,47,38,1.24,12,11,15
+Ligue 1,2015,13,Caen,46,38,1.21,12,10,16
+Ligue 1,2015,14,Nantes,45,38,1.18,11,12,15
+Ligue 1,2015,15,Reims,44,38,1.16,12,8,18
+Ligue 1,2015,16,Lorient,43,38,1.13,12,7,19
+Ligue 1,2015,17,Toulouse,42,38,1.11,12,6,20
+Ligue 1,2015,18,Evian,37,38,0.97,11,4,23
+Ligue 1,2015,19,Metz,30,38,0.79,7,9,22
+Ligue 1,2015,20,Lens,29,38,0.76,7,8,23
+Ligue 1,2014,1,Paris S-G,89,38,2.34,27,8,3
+Ligue 1,2014,2,Monaco,80,38,2.11,23,11,4
+Ligue 1,2014,3,Lille,71,38,1.87,20,11,7
+Ligue 1,2014,4,Saint-Étienne,69,38,1.82,20,9,9
+Ligue 1,2014,5,Lyon,61,38,1.61,17,10,11
+Ligue 1,2014,6,Marseille,60,38,1.58,16,12,10
+Ligue 1,2014,7,Bordeaux,53,38,1.39,13,14,11
+Ligue 1,2014,8,Lorient,49,38,1.29,13,10,15
+Ligue 1,2014,9,Toulouse,49,38,1.29,12,13,13
+Ligue 1,2014,10,Bastia,49,38,1.29,13,10,15
+Ligue 1,2014,11,Reims,48,38,1.26,12,12,14
+Ligue 1,2014,12,Rennes,46,38,1.21,11,13,14
+Ligue 1,2014,13,Nantes,46,38,1.21,12,10,16
+Ligue 1,2014,14,Evian,44,38,1.16,11,11,16
+Ligue 1,2014,15,Montpellier,42,38,1.11,8,18,12
+Ligue 1,2014,16,Guingamp,42,38,1.11,11,9,18
+Ligue 1,2014,17,Nice,42,38,1.11,12,6,20
+Ligue 1,2014,18,Sochaux,40,38,1.05,10,10,18
+Ligue 1,2014,19,Valenciennes,29,38,0.76,7,8,23
+Ligue 1,2014,20,Ajaccio,23,38,0.61,4,11,23
+Ligue 1,2013,1,Paris S-G,83,38,2.18,25,8,5
+Ligue 1,2013,2,Marseille,71,38,1.87,21,8,9
+Ligue 1,2013,3,Lyon,67,38,1.76,19,10,9
+Ligue 1,2013,4,Nice,64,38,1.68,18,10,10
+Ligue 1,2013,5,Saint-Étienne,63,38,1.66,16,15,7
+Ligue 1,2013,6,Lille,62,38,1.63,16,14,8
+Ligue 1,2013,7,Bordeaux,55,38,1.45,13,16,9
+Ligue 1,2013,8,Lorient,53,38,1.39,14,11,13
+Ligue 1,2013,9,Montpellier,52,38,1.37,15,7,16
+Ligue 1,2013,10,Toulouse,51,38,1.34,13,12,13
+Ligue 1,2013,11,Valenciennes,48,38,1.26,12,12,14
+Ligue 1,2013,12,Bastia,47,38,1.24,13,8,17
+Ligue 1,2013,13,Rennes,46,38,1.21,13,7,18
+Ligue 1,2013,14,Reims,43,38,1.13,10,13,15
+Ligue 1,2013,15,Sochaux,41,38,1.08,10,11,17
+Ligue 1,2013,16,Evian,40,38,1.05,10,10,18
+Ligue 1,2013,17,Ajaccio,40,38,1.05,9,15,14
+Ligue 1,2013,18,Nancy,38,38,1.0,9,11,18
+Ligue 1,2013,19,Troyes,37,38,0.97,8,13,17
+Ligue 1,2013,20,Brest,29,38,0.76,8,5,25
+Ligue 1,2012,1,Montpellier,82,38,2.16,25,7,6
+Ligue 1,2012,2,Paris S-G,79,38,2.08,23,10,5
+Ligue 1,2012,3,Lille,74,38,1.95,21,11,6
+Ligue 1,2012,4,Lyon,64,38,1.68,19,7,12
+Ligue 1,2012,5,Bordeaux,61,38,1.61,16,13,9
+Ligue 1,2012,6,Rennes,60,38,1.58,17,9,12
+Ligue 1,2012,7,Saint-Étienne,57,38,1.5,16,9,13
+Ligue 1,2012,8,Toulouse,56,38,1.47,15,11,12
+Ligue 1,2012,9,Evian,50,38,1.32,13,11,14
+Ligue 1,2012,10,Marseille,48,38,1.26,12,12,14
+Ligue 1,2012,11,Nancy,45,38,1.18,11,12,15
+Ligue 1,2012,12,Valenciennes,43,38,1.13,12,7,19
+Ligue 1,2012,13,Nice,42,38,1.11,10,12,16
+Ligue 1,2012,14,Sochaux,42,38,1.11,11,9,18
+Ligue 1,2012,15,Brest,41,38,1.08,8,17,13
+Ligue 1,2012,16,Ajaccio,41,38,1.08,9,14,15
+Ligue 1,2012,17,Lorient,39,38,1.03,9,12,17
+Ligue 1,2012,18,Caen,38,38,1.0,9,11,18
+Ligue 1,2012,19,Dijon,36,38,0.95,9,9,20
+Ligue 1,2012,20,Auxerre,34,38,0.89,7,13,18
+Ligue 1,2011,1,Lille,76,38,2.0,21,13,4
+Ligue 1,2011,2,Marseille,68,38,1.79,18,14,6
+Ligue 1,2011,3,Lyon,64,38,1.68,17,13,8
+Ligue 1,2011,4,Paris S-G,60,38,1.58,15,15,8
+Ligue 1,2011,5,Sochaux,58,38,1.53,17,7,14
+Ligue 1,2011,6,Rennes,56,38,1.47,15,11,12
+Ligue 1,2011,7,Bordeaux,51,38,1.34,12,15,11
+Ligue 1,2011,8,Toulouse,50,38,1.32,14,8,16
+Ligue 1,2011,9,Auxerre,49,38,1.29,10,19,9
+Ligue 1,2011,10,Saint-Étienne,49,38,1.29,12,13,13
+Ligue 1,2011,11,Lorient,49,38,1.29,12,13,13
+Ligue 1,2011,12,Valenciennes,48,38,1.26,10,18,10
+Ligue 1,2011,13,Nancy,48,38,1.26,13,9,16
+Ligue 1,2011,14,Montpellier,47,38,1.24,12,11,15
+Ligue 1,2011,15,Caen,46,38,1.21,11,13,14
+Ligue 1,2011,16,Brest,46,38,1.21,11,13,14
+Ligue 1,2011,17,Nice,46,38,1.21,11,13,14
+Ligue 1,2011,18,Monaco,44,38,1.16,9,17,12
+Ligue 1,2011,19,Lens,35,38,0.92,7,14,17
+Ligue 1,2011,20,Arles-Avignon,20,38,0.53,3,11,24
