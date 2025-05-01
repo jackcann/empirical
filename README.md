@@ -23,7 +23,8 @@ Plotly graphs will only appear when exported to a **web-based or GUI environment
 Use the following command to execute the notebook and export it as an HTML file:
 
 ```bash
-jupyter nbconvert --to html --execute project.ipynb
+!jupyter nbconvert --to html --execute project.ipynb
+
 ```
 
 Then you can open the HTML file in your browser using one of these commands, depending on your operating system:
