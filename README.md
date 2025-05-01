@@ -46,7 +46,7 @@ This code works as intended with the following libraries and versions:
 > BeautifulSoup from bs4 4.12.2\
 > requests 2.29.0\
 > plotly 5.9.0\
-> stats from scipy 1.10.1\
+> stats from scipy 1.10.1
 
 ## More resources
 The Athletic study mentioned in the blog is located here:\
