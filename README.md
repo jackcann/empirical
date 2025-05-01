@@ -1,4 +1,3 @@
-
 # Competition in the 5 major European football leagues
 
 ## Introduction
@@ -27,7 +26,7 @@ Use the following command to execute the notebook and export it as an HTML file:
 jupyter nbconvert --to html --execute project.ipynb
 ```
 
-Then you can open the html file in your browser using one of these commands, depending on your operating system:
+Then you can open the HTML file in your browser using one of these commands, depending on your operating system:
 ```
 open my_notebook.html      # macOS
 ```
