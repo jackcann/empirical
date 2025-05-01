@@ -55,6 +55,6 @@ https://onefootball.com/fr/news/ligue-1-ranked-as-most-competitive-league-in-eur
 Another article on the topic:\
 https://www.ticketgum.com/blog/the-most-competitive-of-the-top-5-european-leagues-in-the-last-decade
 
-an article on the financial difficulties within La Ligua discussed in the blog:\
+An article on the financial difficulties within La Ligua discussed in the blog:\
 https://www.nytimes.com/athletic/5482052/2024/05/16/barcelona-financial-problems-la-liga/
 
