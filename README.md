@@ -56,4 +56,3 @@ https://www.ticketgum.com/blog/the-most-competitive-of-the-top-5-european-league
 
 An article on the financial difficulties within La Ligua discussed in the blog:\
 https://www.nytimes.com/athletic/5482052/2024/05/16/barcelona-financial-problems-la-liga/
-
